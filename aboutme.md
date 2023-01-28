@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Programming and Technical Artist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Thomas Porta, a programmer and technical artist. I studied Game Development at the National Film and television school.
+Before that I was a Machine Learning Scientist (I have a MSc in Machine Learning from UCL).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Skills
 
-What else do you need?
+I am familiar with these engines and platforms,
 
-### My story
+<ul>
+  <li>Unity (URP and Built-in RP)</li>
+  <li>Unreal Engine</li>
+  <li>Playdate SDK</li>
+</ul>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am proficient in these coding languages,
+
+<ul>
+  <li>C#</li>
+  <li>HLSL and CG (for shaders in Unity)</li>
+  <li>Lua</li>
+  <li>Python</li>
+</ul>
+
+I have experience coding various gameplay mechanics and systems for games. As well as coding a few shaders, both post processing and object shaders.
