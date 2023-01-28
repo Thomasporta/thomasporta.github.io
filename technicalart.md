@@ -3,10 +3,12 @@ layout: page
 title: Technical Art
 ---
 
-### Sirenum - Post Processing Effect
+### Sirenum - Post FX
 
-### Sable Remake - Post Processing Effect
+### Sable Remake - Post FX
 
-### Outlines - Gaussian Outlines
+### Project Train - Post FX and VFX
 
-### Terrain Scanner - VFX Shader
+### Gaussian Outlines - VFX
+
+### Terrain Scanner - VFX
