@@ -21,7 +21,7 @@ author: Thomas Porta
 
 navbar-links:
   About Me: "aboutme"
-  Programming : "programming"
+  # Programming : "programming"
   Technical Art : "technicalart"
   Itch : "https://thomasporta.itch.io/"
   Unity Assets : "https://assetstore.unity.com/publishers/76606"
