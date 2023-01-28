@@ -22,4 +22,5 @@ order: 1
 ### SHADOWS OF THEM (PC)
 
 ![Shadows of Them Screenshot](/assets/img/SOT1.png)
+![SOT](/assets/img/ShadowsOfThemTrailer.mp4)
 
