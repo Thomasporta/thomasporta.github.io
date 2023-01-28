@@ -7,19 +7,19 @@ order: 1
 
 ### SIRENUM (PC)
 
-![Sirenum Screenshot](/assets/images/Sirenum4.png)
+![Sirenum Screenshot](/assets/img/Sirenum4.png)
 
 ### EVIL INCREMENTAL (ANDROID)
 
-![Evil Incremental Screenshot](/assets/images/Portal.png)
+![Evil Incremental Screenshot](/assets/img/Portal.png)
 
 ### HERD'EM (PC)
 
 
-![Herd'Em Screenshot](/assets/images/Rainy.png)
+![Herd'Em Screenshot](/assets/img/Rainy.png)
 
 
 ### SHADOWS OF THEM (PC)
 
-![Shadows of Them Screenshot](/assets/images/SOT1.png)
+![Shadows of Them Screenshot](/assets/img/SOT1.png)
 
