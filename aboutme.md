@@ -26,4 +26,5 @@ I am proficient in these coding languages,
   <li>Python</li>
 </ul>
 
-I have experience coding various gameplay mechanics and systems for games. As well as coding a few shaders, both post processing and object shaders.
+I have experience coding gameplay mechanics and systems for games. As well as coding a shaders in Shader code and shader graphs. 
+I can do both post processing and object shaders.
