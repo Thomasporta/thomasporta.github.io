@@ -16,7 +16,7 @@ order: 1
 ### HERD'EM (PC)
 
 
-![Herd'Em Screenshot](/assets/img/Rainy.jpg)
+![Herd'Em Screenshot](/assets/img/Rainy.JPG)
 
 
 ### SHADOWS OF THEM (PC)
