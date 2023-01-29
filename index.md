@@ -11,7 +11,7 @@ order: 1
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
 </video>
 
-[!MORE DETAILS](https://thomasporta.github.io/sirenum))
+[!MORE DETAILS](https://thomasporta.github.io/sirenum)
 
 ### EVIL INCREMENTAL (ANDROID)
 
@@ -19,7 +19,7 @@ order: 1
   <source src="/assets/img/EI.mp4" type="video/mp4">
 </video>
 
-[!MORE DETAILS](https://thomasporta.github.io/evilincremental))
+[!MORE DETAILS](https://thomasporta.github.io/evilincremental)
 
 ### HERD'EM (PC)
 
@@ -27,7 +27,7 @@ order: 1
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
 </video>
 
-[!MORE DETAILS](https://thomasporta.github.io/herdem))
+[!MORE DETAILS](https://thomasporta.github.io/herdem)
 
 
 ### SHADOWS OF THEM (PC)
@@ -36,5 +36,5 @@ order: 1
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
 </video>
 
-[!MORE DETAILS](https://thomasporta.github.io/shadowsofthem))
+[!MORE DETAILS](https://thomasporta.github.io/shadowsofthem)
 
