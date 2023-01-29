@@ -7,7 +7,7 @@ order: 1
 
 ### SIRENUM (PC)
 
-<video width="100%" height="100%" controls poster="/assets/img/Sirenum4.png">
+<video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
 </video>
 
@@ -15,11 +15,15 @@ order: 1
 
 ### EVIL INCREMENTAL (ANDROID)
 
+<video width="100%" height="540" controls poster="/assets/img/Portal.png">
+  <source src="/assets/img/EI.mp4" type="video/mp4">
+</video>
+
 [MORE DETAILS](https://thomasporta.github.io/evilincremental)
 
 ### HERD'EM (PC)
 
-<video width="100%" height="100%" controls poster="/assets/img/Rainy.JPG">
+<video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
 </video>
 
@@ -28,7 +32,7 @@ order: 1
 
 ### SHADOWS OF THEM (PC)
 
-<video width="100%" height="100%" controls poster="/assets/img/SOT1.png">
+<video width="100%" height="540" controls poster="/assets/img/SOT1.png">
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
 </video>
 
