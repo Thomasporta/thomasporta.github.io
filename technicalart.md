@@ -9,7 +9,7 @@ title: Technical Art
 
 ### Sable Remake - Post FX
 
-![Sable](/assets/img/Sable1.png)
+![Sable](/assets/img/Sable1.PNG)
 
 ### Project Train - Post FX and VFX
 
