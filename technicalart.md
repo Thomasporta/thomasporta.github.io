@@ -3,22 +3,28 @@ layout: page
 title: Technical Art
 ---
 
-### Sirenum - Post FX
+### Sirenum
 
 ![Sirenum](/assets/img/Sirenum2.png)
 
-### Sable Remake - Post FX
+### Moebius Style
 
 ![Sable](/assets/img/Sable1.PNG)
 
-### Project Train - Post FX and VFX
+### Project Train
 
 ![ProjectTrain](/assets/img/PT1.png)
 
-### Gaussian Outlines - VFX
+<video width="100%" height="540" controls poster="/assets/img/PT2.png">
+  <source src="/assets/img/AlienVFX_comp.mp4" type="video/mp4">
+</video>
+
+### Gaussian Outlines
 
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
 
-### Terrain Scanner - VFX
+### Terrain Scanner
 
-![Terrain Scanner](/assets/img/StillTerrainScannerFP.PNG)
+<video width="100%" height="540" controls poster="/assets/img/StillTerrainScannerFP.PNG">
+  <source src="/assets/img/TSV2_FP.mp4" type="video/mp4">
+</video>
