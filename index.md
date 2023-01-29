@@ -11,16 +11,15 @@ order: 1
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
 </video>
 
-Sirenum is a first person narrative game made in the span of 1 month. It is made in Unity. 
+Sirenum is a first person narrative game created in 1 month. It is made in Unity. 
 I programmed and designed all core systems, as well as the dithered outline post processing shader.
 
 ## Challenges
-Challenges faced include a branching narrative (4 endings), heavy dialogue presence requiring a custom Dialogue queuer and immersive player movement.
 
 <ul>
-  <li>Real time branching narrative</li>
-  <li>Real time game unfolding. From start to finish, the game will take a maximum of around 10 minutes. Everything occurs in real time</li>
-  <li>Heavy Dialogue usage requiring a custom Dialogue queuer</li>
+  <li>Branching narrative</li>
+  <li>Real time game progression. From start to finish, the game will take a maximum of around 10 minutes. The story progresses regardless of player action</li>
+  <li>Heavy dialogue usage requiring a custom dialogue queuer</li>
 </ul>
 
 ## Skills used 
@@ -100,5 +99,5 @@ My role involved programming core systems like train movement, dynamic events as
 <ul>
   <li>Unity 3D</li>
   <li>C#</li>
-  <li>Maya
+  <li>Maya</li>
 </ul>
