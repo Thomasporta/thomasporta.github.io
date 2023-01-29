@@ -26,5 +26,5 @@ I am proficient in these coding languages,
   <li>Python</li>
 </ul>
 
-I have experience coding gameplay mechanics and systems for games. I am also code shaders in both HLSL/CG or use shader graphs. 
+I have experience coding gameplay mechanics and systems for games. I also code shaders in both HLSL/CG or use shader graphs. 
 I can do both post processing and standard per-object shaders.
