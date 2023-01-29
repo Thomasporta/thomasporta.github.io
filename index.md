@@ -11,7 +11,26 @@ order: 1
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
 </video>
 
-[MORE DETAILS](https://thomasporta.github.io/sirenum)
+Sirenum is a first person narrative game made in the span of 1 month. It is made in Unity. 
+I programmed and designed all core systems, as well as the dithered outline post processing shader.
+
+## Challenges
+Challenges faced include a branching narrative (4 endings), heavy dialogue presence requiring a custom Dialogue queuer and immersive player movement.
+
+<ul>
+  <li>Real time branching narrative</li>
+  <li>Real time game unfolding. From start to finish, the game will take a maximum of around 10 minutes. Everything occurs in real time</li>
+  <li>Heavy Dialogue usage requiring a custom Dialogue queuer</li>
+</ul>
+
+## Skills used 
+
+<ul>
+  <li>Unity 3D</li>
+  <li>CG language for Unity post processing and object shaders</li>
+  <li>Maya</li>
+  <li>C#</li>
+</ul>
 
 ### [EVIL INCREMENTAL (ANDROID)](https://thomasporta.github.io/evilincremental)
 
@@ -19,7 +38,24 @@ order: 1
   <source src="/assets/img/EI.mp4" type="video/mp4">
 </video>
 
-[MORE DETAILS](https://thomasporta.github.io/evilincremental)
+Evil Incremental is an active incremental puzzler in the vein of Orb of Creation.
+Made in Unity and targeted at the Android Platform.
+I programmed and designed the entire experience. Most of the UI is also made by me, except for the icons.
+
+## Challenges
+
+<ul>
+  <li>Extensive understanding of Unity UI for various screen sizes</li>
+  <li>Coding a solid save system</li>
+</ul>
+
+## Skills used 
+
+<ul>
+  <li>Unity 2D for Mobile</li>
+  <li>Game Design</li>
+  <li>Game Balancing using [Machinations](machinations.io)</li>
+</ul>
 
 ### [HERD'EM (PC)](https://thomasporta.github.io/herdem)
 
@@ -27,7 +63,21 @@ order: 1
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
 </video>
 
-[MORE DETAILS](https://thomasporta.github.io/herdem)
+Herd'Em is a Couch Co-op Herding game that is played by one or two players. The players each control one dog or one player controls both. They must herd the sheep into the neighbouring enclosure. Made in Unity. 
+
+## Challenges
+
+<ul>
+  <li>Coding a solid Herding algorithm with low performance cost amortized across frames. Each sheep's movement is updated each tick, which can be tweaked according to performance needs.</li>
+  <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
+</ul>
+
+## Skills used 
+
+<ul>
+  <li>Unity 3D</li>
+  <li>C#</li>
+</ul>
 
 ### [SHADOWS OF THEM (PC)](https://thomasporta.github.io/shadowsofthem)
 
@@ -35,5 +85,20 @@ order: 1
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
 </video>
 
-[MORE DETAILS](https://thomasporta.github.io/shadowsofthem)
+Shadows of Them is a Psychological Horror game set in the London Underground. It was selected for the Develop 2022 Indie Showcase.
+My role involved programming core systems like train movement, dynamic events as well as lighting the game.
 
+## Challenges
+
+<ul>
+  <li>Real time transition of train between station loops</li>
+  <li>Player movement on dynamic objects.</li>
+</ul>
+
+## Skills used 
+
+<ul>
+  <li>Unity 3D</li>
+  <li>C#</li>
+  <li>Maya
+</ul>
