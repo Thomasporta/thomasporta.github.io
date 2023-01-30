@@ -27,4 +27,4 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 ### Machinations Diagram for first two resources
 
-[Machinations](/assets/img/FearDarknessLoop.PNG)
+![Machinations](/assets/img/FearDarknessLoop.PNG)
