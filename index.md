@@ -87,7 +87,7 @@ My role involved programming core systems like train movement and dynamic events
 
 Unity 3D, C#, Unity Audio, Maya
 
-# [Project Train (PC)](https://thomasporta.github.io/projecttrain)
+# [PROJECT TRAIN (PC)](https://thomasporta.github.io/projecttrain)
 
 <video width="100%" height="540" controls poster="/assets/img/PT1.png">
   <source src="/assets/img/PT.mp4" type="video/mp4">
