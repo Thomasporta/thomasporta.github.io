@@ -20,9 +20,9 @@ I programmed and designed all core systems, as well as the dithered outline post
 
 ### Additional Screenshots
 
-[Sirenum1](/assets/img/Sirenum1.png)
-[Sirenum2](/assets/img/Sirenum2.png)
-[Sirenum3](/assets/img/Sirenum3.png)
+![Sirenum1](/assets/img/Sirenum1.png)
+![Sirenum2](/assets/img/Sirenum2.png)
+![Sirenum3](/assets/img/Sirenum3.png)
 
 
 
