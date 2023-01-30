@@ -17,9 +17,9 @@ infested the valley. This prototype consists of one level.
 
 ### Role 
 
-I was programmer and a technical artist for this game. I coded the train and its behaviour as well logic for core systems. My Collaborator, Nick McKenzie, and I both coded 
-enemy AI and sensory systems for these AI agents. I also was in charge of creating the retro look -a post processing effect and an old school 
-texturing style coupled with low polygon models. I was in charge of creating the VFX such as blood splatters and AI shooting.
+I was programmer and a technical artist for this game. I coded the train and its behaviour as well logic for core systems. <br>
+
+My Collaborator, Nick McKenzie, and I both coded  enemy AI and sensory systems for these AI agents. I also was in charge of creating the retro look -a post processing effect and an old school  texturing style coupled with low polygon models. I was in charge of creating the VFX such as blood splatters and AI shooting.
 
 ### Additional Screenshots
 
