@@ -23,7 +23,7 @@ texturing style coupled with low polygon models. I was in charge of creating the
 
 ### Additional Screenshots
 
-![PT1](/assets/img/PT1.PNG)
-![PT2](/assets/img/PT2.PNG)
+![PT1](/assets/img/PT1.png)
+![PT2](/assets/img/PT2.png)
 ![PT3](/assets/img/PT3.PNG)
 
