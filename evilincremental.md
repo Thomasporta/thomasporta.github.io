@@ -21,9 +21,9 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 ### Comments from players on Itch.io
 
-*This is one of the better incremental games I've played. Fun theme, upgrade decisions that matter, an end goal, and no rebirth mechanics to pad out the experience.* - Homicidal_Harry
+*"This is one of the better incremental games I've played. Fun theme, upgrade decisions that matter, an end goal, and no rebirth mechanics to pad out the experience."* - Homicidal_Harry
 
-*Really strong theme! The sound design is great with whistling wind and somber music, and the monster sounds you get with the chapter text is great.* - An Actual Typhon
+*"Really strong theme! The sound design is great with whistling wind and somber music, and the monster sounds you get with the chapter text is great."* - An Actual Typhon
 
 ### Machinations Diagram for first two resources
 
