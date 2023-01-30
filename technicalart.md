@@ -18,7 +18,7 @@ After playing Sable, I set out in making a Moebius inspired graphic novel post p
 
 ### [Project Train](https://thomasporta.github.io/projecttrain/)
 
-Project Train required a retro look and I did so through a post processing shader. This shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - 4 to be exact. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors, deeper blacks and better whites.) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. I also did some VFX work for the game, one instance of which you can see below.
+Project Train required a retro look and I did so through a post processing shader. This shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - 4 to be exact. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors, deeper blacks and better whites.) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
 
 ![ProjectTrain](/assets/img/PT1.png)
 
