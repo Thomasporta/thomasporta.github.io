@@ -74,7 +74,7 @@ Unity 3D, C#, Unity Audio
 </video>
 
 Shadows of Them is a Psychological Horror game set in the London Underground. It was selected for the Develop 2022 Indie Showcase.
-My role involved programming core systems like train movement, dynamic events as well as lighting the game.
+My role involved programming core systems like train movement and dynamic events. I also took charge of lighting the game.
 
 ## Challenges
 
