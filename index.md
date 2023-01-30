@@ -5,7 +5,7 @@ subtitle: Programming and Technical Art
 order: 1
 ---
 
-### [SIRENUM (PC)](https://thomasporta.github.io/sirenum)
+# [SIRENUM (PC)](https://thomasporta.github.io/sirenum)
 
 <video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
@@ -26,7 +26,7 @@ I programmed and designed all core systems, as well as the dithered outline post
 
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
-### [EVIL INCREMENTAL (ANDROID)](https://thomasporta.github.io/evilincremental)
+# [EVIL INCREMENTAL (ANDROID)](https://thomasporta.github.io/evilincremental)
 
 <video width="100%" height="540" controls poster="/assets/img/Portal.png">
   <source src="/assets/img/EI.mp4" type="video/mp4">
@@ -48,7 +48,7 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
 
 
-### [HERD'EM (PC)](https://thomasporta.github.io/herdem)
+# [HERD'EM (PC)](https://thomasporta.github.io/herdem)
 
 <video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
@@ -67,7 +67,7 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
 
 Unity 3D, C#, Unity Audio
 
-### [SHADOWS OF THEM (PC)](https://thomasporta.github.io/shadowsofthem)
+# [SHADOWS OF THEM (PC)](https://thomasporta.github.io/shadowsofthem)
 
 <video width="100%" height="540" controls poster="/assets/img/SOT1.png">
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
@@ -87,7 +87,7 @@ My role involved programming core systems like train movement and dynamic events
 
 Unity 3D, C#, Unity Audio, Maya
 
-### [Project Train (PC)](https://thomasporta.github.io/projecttrain)
+# [Project Train (PC)](https://thomasporta.github.io/projecttrain)
 
 <video width="100%" height="540" controls poster="/assets/img/PT1.png">
   <source src="/assets/img/PT.mp4" type="video/mp4">
