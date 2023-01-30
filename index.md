@@ -86,3 +86,22 @@ My role involved programming core systems like train movement and dynamic events
 ## Tools
 
 Unity 3D, C#, Unity Audio, Maya
+
+### [Project Train (PC)](https://thomasporta.github.io/projecttrain)
+
+<video width="100%" height="540" controls poster="/assets/img/PT1.png">
+  <source src="/assets/img/PT.mp4" type="video/mp4">
+</video>
+
+Project Train is a retro FPS where you control a death train. The train has four shurikens that you can activate to kill demons that have infested the valley. This prototype consists of one level.
+
+## Challenges
+
+<ul>
+  <li>Train Physics</li>
+  <li>Enemy AI and sensory control</li>
+</ul>
+
+## Tools
+
+Unity 3D, C#, WWise, Maya, Shuriken Particle System
