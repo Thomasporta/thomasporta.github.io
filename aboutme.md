@@ -30,4 +30,4 @@ I have experience coding gameplay mechanics and systems for games. I also code s
 I can do both post processing and standard per-object shaders.
 
 ### Hobbies
-I like running and taking pictures of buildings. You can find some of my pictures [here]("thomasporta.github.io/photography").
+I like running and taking pictures of buildings. You can find some of my pictures [here](https://thomasporta.github.io/photography).
