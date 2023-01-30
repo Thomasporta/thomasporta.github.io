@@ -4,7 +4,7 @@ title: Evil Incremental
 subtitle: Mobile (Android), Active Incremental Puzzler
 ---
 
-[EI Banner](/assets/img/EIBanner.png)
+![EI Banner](/assets/img/EIBanner.png)
 
 [Game Page](https://thomasporta.itch.io/evil-incremental) <br>
 Can be played in browser but android apk is the recommended version
