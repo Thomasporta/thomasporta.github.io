@@ -22,14 +22,9 @@ I programmed and designed all core systems, as well as the dithered outline post
   <li>Heavy dialogue usage requiring a custom dialogue queuer</li>
 </ul>
 
-## Skills used 
+## Tools
 
-<ul>
-  <li>Unity 3D</li>
-  <li>CG language for Unity post processing and object shaders</li>
-  <li>Maya</li>
-  <li>C#</li>
-</ul>
+Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
 ### [EVIL INCREMENTAL (ANDROID)](https://thomasporta.github.io/evilincremental)
 
@@ -48,13 +43,10 @@ I programmed and designed the entire experience. Most of the UI is also made by 
   <li>Coding a solid save system</li>
 </ul>
 
-## Skills used 
+## Tools and Skills
 
-<ul>
-  <li>Unity 2D for Mobile</li>
-  <li>Game Design</li>
-  <li>Game Balancing using [Machinations](machinations.io)</li>
-</ul>
+Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
+
 
 ### [HERD'EM (PC)](https://thomasporta.github.io/herdem)
 
@@ -71,12 +63,9 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
   <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
 </ul>
 
-## Skills used 
+## Tools
 
-<ul>
-  <li>Unity 3D</li>
-  <li>C#</li>
-</ul>
+Unity 3D, C#, Unity Audio
 
 ### [SHADOWS OF THEM (PC)](https://thomasporta.github.io/shadowsofthem)
 
@@ -94,10 +83,6 @@ My role involved programming core systems like train movement, dynamic events as
   <li>Player movement on dynamic objects.</li>
 </ul>
 
-## Skills used 
+## Tools
 
-<ul>
-  <li>Unity 3D</li>
-  <li>C#</li>
-  <li>Maya</li>
-</ul>
+Unity 3D, C#, Unity Audio, Maya
