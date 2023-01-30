@@ -4,7 +4,7 @@ title : Photography
 subtitle : I like Concrete 
 ---
 
-![1](/assets/photography/brut30.png) <br>
+![1](/assets/photography/Brut30.png) <br>
 
 ![2](/assets/photography/brut24_2.png) <br>
 
