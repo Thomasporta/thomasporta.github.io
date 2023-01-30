@@ -16,7 +16,7 @@ Herd'Em is a cozy puzzler where you control herding dogs. You are tasked with gu
 
 ### Role
 
-I programmed the herding behaviour using Boid algorithm with some modified components to account for fences and dogs. For performance reasons the AI is executed at set intervals which can me modified according to needs. 
+I programmed the herding behaviour using Boid algorithm with some modified components to account for fences and dogs. For performance reasons the sheep behaviour is executed at set intervals which can be modified according to needs. 
 
 ### Additional Screenshot
 
