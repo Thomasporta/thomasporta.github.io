@@ -5,14 +5,14 @@ title: Technical Art
 
 ### Sirenum
 
-Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on such methods [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use colors. I modelled all models and could manually set vertex colors where I wanted lines to appear. 
+Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on this method [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use discontinuities in colors. I modelled all models and could manually set vertex colors where I wanted lines to appear. 
 
 ![Sirenum](/assets/img/Sirenum2.png)
 
 
 ### Moebius Style
 
-After playing Sable, I set out in making a Graphic Novel Moebius post processing shader. This also uses a discontinuity based outline detection algorithm but it uses all three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects an extra level of presence.
+After playing Sable, I set out in making a Moebius inspired graphic novel post processing shader. This also uses a discontinuity based outline detection algorithm but it uses all three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects an extra level of presence.
 
 ![Sable](/assets/img/Sable1.PNG)
 
@@ -34,7 +34,7 @@ Gaussian Outlines are useful if we want soft outlines. They are built using a ga
 
 ### Terrain Scanner
 
-I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. The scanner is a post processing effect and will work with any level geometry and materials, except transparent materials that do not write to the depth pass. The depth is used to reconstruct the world position of each pixel so that we can determine whether that pixel is within the range of the terrain scanner and whether it should me modified.  
+I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. The scanner is a post processing effect and will work with any level geometry and materials, except transparent materials that do not write to the depth pass. The depth is used to reconstruct the world position of each pixel so that we can determine whether that pixel is within the range of the terrain scanner and whether it should me modified.  
 
 <video width="100%" height="540" controls poster="/assets/img/StillTerrainScannerFP.PNG">
   <source src="/assets/img/TSV2_FP.mp4" type="video/mp4">
