@@ -5,13 +5,20 @@ title: Technical Art
 
 ### Sirenum
 
+Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on such methods [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use colors. I modelled all models and could manually set vertex colors where I wanted lines to appear. 
+
 ![Sirenum](/assets/img/Sirenum2.png)
 
+
 ### Moebius Style
+
+After playing Sable, I set out in making a Graphic Novel Moebius post processing shader. This also uses a discontinuity based outline detection algorithm but it uses all three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects an extra level of presence.
 
 ![Sable](/assets/img/Sable1.PNG)
 
 ### Project Train
+
+Project Train required a retro look and I did so through a post processing shader. This shader controls the allowed range of colors. While we mostly use R8G8B8A8 formats in modern engines, older engines had fewer bits per channel. The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. I also did some VFX work for the game, one instance of which you can see below.
 
 ![ProjectTrain](/assets/img/PT1.png)
 
@@ -20,6 +27,8 @@ title: Technical Art
 </video>
 
 ### Gaussian Outlines
+
+Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
 
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
 
