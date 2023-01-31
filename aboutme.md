@@ -5,7 +5,7 @@ subtitle: Programming and Technical Artist
 ---
 
 I am Thomas Porta, a programmer and technical artist. I studied Game Development at the National Film and television school.
-Before that I was a Machine Learning Scientist.
+Previously I was a Machine Learning Scientist.
 
 ### Skills
 
