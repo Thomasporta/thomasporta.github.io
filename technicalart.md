@@ -5,7 +5,7 @@ title: Technical Art
 
 ### Sirenum
 
-Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on this method [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use discontinuities in colors. I modelled all models and could manually set vertex colors where I wanted lines to appear. 
+Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on this method [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use discontinuities in colors. I modelled all models and which allowed me to manually set vertex colors. I could control where I wanted lines to appear. 
 
 ![Sirenum](/assets/img/Sirenum2.png)
 
