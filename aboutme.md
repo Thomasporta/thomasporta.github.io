@@ -29,5 +29,9 @@ I am proficient in these coding languages,
 I have experience coding gameplay mechanics and systems for games. I also code shaders in HLSL/CG and am comfortable using shader graphs. 
 I can do both post processing and standard per-object shaders.
 
+### Software 
+
+Unity, Unreal, Maya, Photoshop
+
 ### Hobbies
 I like running and taking pictures of buildings. You can find some of my pictures [here](https://thomasporta.github.io/photography).
