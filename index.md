@@ -98,6 +98,7 @@ Project Train is a retro FPS where you control a death train. The train has four
 ## Challenges
 
 <ul>
+  <li>Large amount of enemies existing simultaneously and extensive use of VFX (blood and attacks). 
   <li>Train Physics</li>
   <li>Enemy AI and sensory control</li>
 </ul>
