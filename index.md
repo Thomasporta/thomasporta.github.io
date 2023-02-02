@@ -17,9 +17,9 @@ I programmed and designed all core systems, as well as the dithered outline post
 ## Challenges
 
 <ul>
-  <li>Branching narrative</li>
-  <li>Real time game progression. From start to finish, the game will take a maximum of around 10 minutes. The story progresses regardless of player action</li>
-  <li>Heavy dialogue usage requiring a custom dialogue queuer</li>
+  <li>Branching narrative.</li>
+  <li>Real time game progression. From start to finish, the game will take a maximum of around 10 minutes. The story progresses regardless of player action.</li>
+  <li>Heavy dialogue usage requiring a custom dialogue queuer.</li>
 </ul>
 
 ## Tools
@@ -39,8 +39,8 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 ## Challenges
 
 <ul>
-  <li>Extensive understanding of Unity UI for various screen sizes</li>
-  <li>Coding a solid save system</li>
+  <li>Extensive understanding of Unity UI for various screen sizes.</li>
+  <li>Coding a solid save system.</li>
 </ul>
 
 ## Tools and Skills
@@ -79,7 +79,7 @@ My role involved programming core systems like train movement and dynamic events
 ## Challenges
 
 <ul>
-  <li>Real time transition of train between station loops</li>
+  <li>Real time transition of train between station loops.</li>
   <li>Player movement on dynamic objects.</li>
 </ul>
 
@@ -98,9 +98,9 @@ Project Train is a retro FPS where you control a death train. The train has four
 ## Challenges
 
 <ul>
-  <li>Large amount of enemies existing simultaneously and extensive use of VFX (blood and attacks)</li> 
-  <li>Train Physics</li>
-  <li>Enemy AI and sensory control</li>
+  <li>Large amount of enemies existing simultaneously and extensive use of VFX (blood and attacks).</li> 
+  <li>Train Physics.</li>
+  <li>Enemy AI and sensory control.</li>
 </ul>
 
 ## Tools
