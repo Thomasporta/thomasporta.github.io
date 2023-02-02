@@ -6,6 +6,7 @@ title: Technical Art
 ### Sirenum
 
 Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. <br>
+
 In order to draw the outlines I used a common outlining technique which detects discontinuities in the image rendered by the engine. Usually it is used with three sources of discontinuities - colors, normals and depth. You can find a good resource on this method [here](https://alexanderameye.github.io/notes/edge-detection-outlines/). In Sirenum I only use discontinuities in colors. I modelled all models and which allowed me to manually set vertex colors. I could control where I wanted lines to appear. 
 
 ![Sirenum](/assets/img/Sirenum2.png)
@@ -14,6 +15,7 @@ In order to draw the outlines I used a common outlining technique which detects 
 ### Moebius Style
 
 After playing Sable, I set out in making a Moebius inspired graphic novel post processing shader. <br> 
+
 I use a discontinuity based outline detection algorithm with three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects more presence.
 
 ![Sable](/assets/img/Sable1.PNG)
@@ -21,6 +23,7 @@ I use a discontinuity based outline detection algorithm with three sources of di
 ### [Project Train](https://thomasporta.github.io/projecttrain/)
 
 Project Train required a retro look and I did so through a post processing shader. <br> 
+
 The shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - 4 to be exact. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors, deeper blacks and better whites.) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
 
 ![ProjectTrain](/assets/img/PT1.png)
