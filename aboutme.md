@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Programming and Technical Artist
+subtitle: Programmer and Technical Artist
 ---
 
 I am Thomas Porta, a programmer and technical artist. I studied Game Development at the National Film and television school.
