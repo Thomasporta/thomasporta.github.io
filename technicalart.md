@@ -3,7 +3,7 @@ layout: page
 title: Technical Art
 ---
 
-### Sirenum
+### [Sirenum](https://thomasporta.github.io/sirenum/)
 
 Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. <br>
 
@@ -38,7 +38,7 @@ Gaussian Outlines are useful if we want soft outlines. They are built using a ga
 
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
 
-### Terrain Scanner
+### [Terrain Scanner](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description)
 
 I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. <br>
 
