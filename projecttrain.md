@@ -19,7 +19,11 @@ infested the valley. This prototype consists of one level.
 
 I was programmer and a technical artist for this game. I coded the train and its behaviour as well logic for core systems. <br>
 
-My Collaborator, Nick McKenzie, and I both coded  enemy AI and sensory systems for these AI agents. I also was in charge of creating the retro look -a post processing effect and an old school  texturing style coupled with low polygon models. I was in charge of creating the VFX such as blood splatters and AI shooting.
+My Collaborator, Nick McKenzie, and I both coded  enemy AI and sensory systems for these AI agents. <br> 
+
+I also was in charge of creating the retro look -a post processing effect and an old school  texturing style coupled with low polygon models. I was in charge of creating the VFX such as blood splatters and enemy attacks. <br>
+
+The large amount of enemies and VFX required coding lookup tables which could efficiently reuse objects - enemies and VFX instances. This optimized garbage collection and memory allocation - everything was done upon level loading. 
 
 ### Additional Screenshots
 
