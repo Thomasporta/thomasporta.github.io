@@ -20,6 +20,7 @@ author: Thomas Porta
 ###############################################
 
 navbar-links:
+  Home : "https://thomasporta.github.io"
   About Me: "aboutme"
   # Programming : "programming"
   Technical Art : "technicalart"
