@@ -29,9 +29,14 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 
 ### [More Information](https://thomasporta.github.io/sirenum)
 
-<div style="text-align: center;">
-![Break](/assets/img/paragraphBreak1.png)
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+</img>
 
 <br/>
 <br/>
