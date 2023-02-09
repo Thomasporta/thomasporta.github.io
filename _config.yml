@@ -23,6 +23,12 @@ navbar-links:
   Home : "https://thomasporta.github.io"
   About Me: "aboutme"
   # Programming : "programming"
+  Games:
+    - Sirenum: "https://thomasporta.github.io/sirenum"
+    - Evil Incremental: "https://thomasporta.github.io/evilincremental"
+    - Herd'Em: "https://thomasporta.github.io/herdem"
+    - Shadows Of Them: "https://thomasporta.github.io/shadowsofthem"
+    - Project Train: "https://thomasporta.github.io/projecttrain"
   Technical Art : "technicalart"
   Itch : "https://thomasporta.itch.io/"
   Unity Assets : "https://assetstore.unity.com/publishers/76606"
