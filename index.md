@@ -31,7 +31,7 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 
 <br/>
 <div style="text-align: center;">
-![break]("/assets/img/paragraphBreak1.png")
+![break](/assets/img/paragraphBreak1.png)
 </div>
 <br/>
 
