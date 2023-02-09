@@ -29,7 +29,9 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 
 ### [More Information](https://thomasporta.github.io/sirenum)
 
+<div style="text-align: center;">
 ![Break](/assets/img/paragraphBreak1.png)
+</div>
 
 <br/>
 <br/>
