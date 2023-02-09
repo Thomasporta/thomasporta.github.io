@@ -27,8 +27,9 @@ I programmed and designed all core systems, as well as the dithered outline post
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
 ### [More Information](https://thomasporta.github.io/sirenum)
+<br/><br/><br/><br/>
 
-# EVIL INCREMENTAL (ANDROID)
+<h1 style="text-align: center;">EVIL INCREMENTAL (Android)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/Portal.png">
   <source src="/assets/img/EI.mp4" type="video/mp4">
@@ -51,8 +52,9 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
 
 ### [More Information](https://thomasporta.github.io/evilincremental)
 
+<br/><br/><br/><br/>
 
-# HERD'EM (PC)
+<h1 style="text-align: center;">HERD'EM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
@@ -72,8 +74,9 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
 Unity 3D, C#, Unity Audio
 
 ### [More Information](https://thomasporta.github.io/herdem)
+<br/><br/><br/><br/>
 
-# SHADOWS OF THEM (PC)
+<h1 style="text-align: center;">SHADOWS OF THEM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/SOT1.png">
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
@@ -95,7 +98,9 @@ Unity 3D, C#, Unity Audio, Maya
 
 ### [More Information](https://thomasporta.github.io/shadowsofthem)
 
-# PROJECT TRAIN (PC)
+<br/><br/><br/><br/>
+
+<h1 style="text-align: center;">PROJECT TRAIN (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/PT1.png">
   <source src="/assets/img/PT.mp4" type="video/mp4">
@@ -116,3 +121,5 @@ Project Train is a retro FPS where you control a death train. The train has four
 Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
 ### [More Information](https://thomasporta.github.io/projecttrain)
+
+<br/><br/><br/><br/>
