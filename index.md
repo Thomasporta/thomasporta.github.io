@@ -30,7 +30,7 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 ### [More Information](https://thomasporta.github.io/sirenum)
 <br/><br/><br/><br/>
 
-<h1 style="text-align: center;">EVIL INCREMENTAL (Android)</h1>
+<h1 style="text-align: center;">EVIL INCREMENTAL (ANDROID)</h1>
 <br/><br/>
 
 <video width="100%" height="540" controls poster="/assets/img/Portal.png">
