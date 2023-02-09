@@ -6,7 +6,6 @@ order: 1
 ---
 
 <h1 style="text-align: center;">SIRENUM (PC)</h1>
-<br/>
 
 <video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
@@ -36,13 +35,10 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
            width: 5%;"
     src="/assets/img/paragraphBreak1.png" 
     alt="break">
-</img>
 
-<br/>
 <br/>
 
 <h1 style="text-align: center;">EVIL INCREMENTAL (ANDROID)</h1>
-<br/>
 
 <video width="100%" height="540" controls poster="/assets/img/Portal.png">
   <source src="/assets/img/EI.mp4" type="video/mp4">
@@ -66,10 +62,8 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
 ### [More Information](https://thomasporta.github.io/evilincremental)
 
 <br/>
-<br/>
 
 <h1 style="text-align: center;">HERD'EM (PC)</h1>
-<br/>
 
 <video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
@@ -91,10 +85,8 @@ Unity 3D, C#, Unity Audio
 ### [More Information](https://thomasporta.github.io/herdem)
 
 <br/>
-<br/>
 
 <h1 style="text-align: center;">SHADOWS OF THEM (PC)</h1>
-<br/>
 
 <video width="100%" height="540" controls poster="/assets/img/SOT1.png">
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
@@ -117,10 +109,8 @@ Unity 3D, C#, Unity Audio, Maya
 ### [More Information](https://thomasporta.github.io/shadowsofthem)
 
 <br/>
-<br/>
 
 <h1 style="text-align: center;">PROJECT TRAIN (PC)</h1>
-<br/>
 
 <video width="100%" height="540" controls poster="/assets/img/PT1.png">
   <source src="/assets/img/PT.mp4" type="video/mp4">
@@ -142,5 +132,4 @@ Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
 ### [More Information](https://thomasporta.github.io/projecttrain)
 
-<br/>
 <br/>
