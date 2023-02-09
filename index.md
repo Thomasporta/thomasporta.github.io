@@ -5,7 +5,7 @@ subtitle: Programming and Technical Art
 order: 1
 ---
 
-# [SIRENUM (PC)](https://thomasporta.github.io/sirenum)
+<h1 style="text-align: center;">SIRENUM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
   <source src="/assets/img/Sirenum.mp4" type="video/mp4">
@@ -14,7 +14,7 @@ order: 1
 Sirenum is a first person narrative game created in 1 month. It is made in Unity. 
 I programmed and designed all core systems, as well as the dithered outline post processing shader.
 
-## Challenges
+### Challenges
 
 <ul>
   <li>Branching narrative.</li>
@@ -22,11 +22,13 @@ I programmed and designed all core systems, as well as the dithered outline post
   <li>Heavy dialogue usage requiring a custom dialogue queuer.</li>
 </ul>
 
-## Tools
+### Tools
 
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
-# [EVIL INCREMENTAL (ANDROID)](https://thomasporta.github.io/evilincremental)
+### [More Information](https://thomasporta.github.io/sirenum)
+
+# EVIL INCREMENTAL (ANDROID)
 
 <video width="100%" height="540" controls poster="/assets/img/Portal.png">
   <source src="/assets/img/EI.mp4" type="video/mp4">
@@ -36,19 +38,21 @@ Evil Incremental is an active incremental puzzler in the vein of Orb of Creation
 Made in Unity and targeted at the Android Platform.
 I programmed and designed the entire experience. Most of the UI is also made by me, except for the icons.
 
-## Challenges
+### Challenges
 
 <ul>
   <li>Extensive understanding of Unity UI for various screen sizes.</li>
   <li>Coding a solid save system.</li>
 </ul>
 
-## Tools and Skills
+### Tools and Skills
 
 Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
 
+### [More Information](https://thomasporta.github.io/evilincremental)
 
-# [HERD'EM (PC)](https://thomasporta.github.io/herdem)
+
+# HERD'EM (PC)
 
 <video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
   <source src="/assets/img/HEHerding.mp4" type="video/mp4">
@@ -56,18 +60,20 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
 
 Herd'Em is a Couch Co-op Herding game that is played by one or two players. The players each control one dog or one player controls both. They must herd the sheep into the neighbouring enclosure. Made in Unity. 
 
-## Challenges
+### Challenges
 
 <ul>
   <li>Coding a solid Herding algorithm with low performance cost amortized across frames. Each sheep's movement is updated each tick, which can be tweaked according to performance needs.</li>
   <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
 </ul>
 
-## Tools
+### Tools
 
 Unity 3D, C#, Unity Audio
 
-# [SHADOWS OF THEM (PC)](https://thomasporta.github.io/shadowsofthem)
+### [More Information](https://thomasporta.github.io/herdem)
+
+# SHADOWS OF THEM (PC)
 
 <video width="100%" height="540" controls poster="/assets/img/SOT1.png">
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
@@ -76,18 +82,20 @@ Unity 3D, C#, Unity Audio
 Shadows of Them is a Psychological Horror game set in the London Underground. It was selected for the Develop 2022 Indie Showcase.
 My role involved programming core systems like train movement and dynamic events. I also took charge of lighting the game.
 
-## Challenges
+### Challenges
 
 <ul>
   <li>Real time transition of train between station loops.</li>
   <li>Player movement on dynamic objects.</li>
 </ul>
 
-## Tools
+### Tools
 
 Unity 3D, C#, Unity Audio, Maya
 
-# [PROJECT TRAIN (PC)](https://thomasporta.github.io/projecttrain)
+### [More Information](https://thomasporta.github.io/shadowsofthem)
+
+# PROJECT TRAIN (PC)
 
 <video width="100%" height="540" controls poster="/assets/img/PT1.png">
   <source src="/assets/img/PT.mp4" type="video/mp4">
@@ -95,7 +103,7 @@ Unity 3D, C#, Unity Audio, Maya
 
 Project Train is a retro FPS where you control a death train. The train has four shurikens that you can activate to kill demons that have infested the valley. This prototype consists of one level.
 
-## Challenges
+### Challenges
 
 <ul>
   <li>Large amount of enemies existing simultaneously and extensive use of VFX (blood and attacks).</li> 
@@ -103,6 +111,8 @@ Project Train is a retro FPS where you control a death train. The train has four
   <li>Enemy AI and sensory control.</li>
 </ul>
 
-## Tools
+### Tools
 
 Unity 3D, C#, WWise, Maya, Shuriken Particle System
+
+### [More Information](https://thomasporta.github.io/projecttrain)
