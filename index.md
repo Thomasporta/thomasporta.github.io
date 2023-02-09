@@ -31,7 +31,7 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 
 <br/>
 <div style="text-align: center;">
-![alt text](/assets/img/paragraphBreak1.png "break")
+![alt text](src="/assets/img/paragraphBreak1.png")
 </div>
 <br/>
 
@@ -61,7 +61,7 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
 
 <br/>
 <div style="text-align: center;">
-![alt text](/assets/img/paragraphBreak1.png "break")
+![alt text](src="/assets/img/paragraphBreak1.png")
 </div>
 <br/>
 
@@ -89,7 +89,7 @@ Unity 3D, C#, Unity Audio
 
 <br/>
 <div style="text-align: center;">
-![alt text](/assets/img/paragraphBreak1.png "break")
+![alt text](src="/assets/img/paragraphBreak1.png")
 </div>
 <br/>
 
@@ -118,7 +118,7 @@ Unity 3D, C#, Unity Audio, Maya
 
 <br/>
 <div style="text-align: center;">
-![alt text](/assets/img/paragraphBreak1.png "break")
+![alt text](src= "/assets/img/paragraphBreak1.png")
 </div>
 <br/>
 
@@ -147,6 +147,6 @@ Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
 <br/>
 <div style="text-align: center;">
-![alt text](/assets/img/paragraphBreak1.png "break")
+![alt text](src="/assets/img/paragraphBreak1.png")
 </div>
 <br/>
