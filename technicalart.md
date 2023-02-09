@@ -3,7 +3,7 @@ layout: page
 title: Technical Art
 ---
 
-### [Sirenum](https://thomasporta.github.io/sirenum/)
+<h2 style="text-align: center;">Sirenum</h2>
 
 Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. <br>
 
@@ -12,7 +12,7 @@ In order to draw the outlines I used a common outlining technique which detects 
 ![Sirenum](/assets/img/Sirenum2.png)
 
 
-### Moebius Style
+<h2 style="text-align: center;">Moebius Image Effect</h2>
 
 After playing Sable, I set out in making a Moebius inspired graphic novel post processing shader. <br> 
 
@@ -20,7 +20,7 @@ I use a discontinuity based outline detection algorithm with three sources of di
 
 ![Sable](/assets/img/Sable1.PNG)
 
-### [Project Train](https://thomasporta.github.io/projecttrain/)
+<h2 style="text-align: center;">Project Train</h2>
 
 Project Train required a retro look and I did so through a post processing shader. <br> 
 
@@ -32,13 +32,13 @@ The shader controls the allowed range of colors. While we mostly use the R8G8B8A
   <source src="/assets/img/AlienVFX_comp.mp4" type="video/mp4">
 </video>
 
-### Gaussian Outlines
+<h2 style="text-align: center;">Gaussian Outlines</h2>
 
 Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
 
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
 
-### [Terrain Scanner](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description)
+<h2 style="text-align: center;">Terrain Scanner</h2>
 
 I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. <br>
 
@@ -47,3 +47,5 @@ The scanner is a post processing effect and will work with any level geometry an
 <video width="100%" height="540" controls poster="/assets/img/StillTerrainScannerFP.PNG">
   <source src="/assets/img/TSV2_FP.mp4" type="video/mp4">
 </video>
+
+[Unity Asset Store Page](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description)
