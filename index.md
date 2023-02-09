@@ -30,7 +30,6 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
 ### [More Information](https://thomasporta.github.io/sirenum)
 
 <br/>
-![break](/assets/img/paragraphBreak1.png)
 <br/>
 
 <h1 style="text-align: center;">EVIL INCREMENTAL (ANDROID)</h1>
@@ -58,9 +57,6 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
 ### [More Information](https://thomasporta.github.io/evilincremental)
 
 <br/>
-<div style="text-align: center;">
-![alt text](src="/assets/img/paragraphBreak1.png")
-</div>
 <br/>
 
 <h1 style="text-align: center;">HERD'EM (PC)</h1>
@@ -86,9 +82,6 @@ Unity 3D, C#, Unity Audio
 ### [More Information](https://thomasporta.github.io/herdem)
 
 <br/>
-<div style="text-align: center;">
-![alt text](src="/assets/img/paragraphBreak1.png")
-</div>
 <br/>
 
 <h1 style="text-align: center;">SHADOWS OF THEM (PC)</h1>
@@ -115,9 +108,6 @@ Unity 3D, C#, Unity Audio, Maya
 ### [More Information](https://thomasporta.github.io/shadowsofthem)
 
 <br/>
-<div style="text-align: center;">
-![alt text](src= "/assets/img/paragraphBreak1.png")
-</div>
 <br/>
 
 <h1 style="text-align: center;">PROJECT TRAIN (PC)</h1>
@@ -144,7 +134,4 @@ Unity 3D, C#, WWise, Maya, Shuriken Particle System
 ### [More Information](https://thomasporta.github.io/projecttrain)
 
 <br/>
-<div style="text-align: center;">
-![alt text](src="/assets/img/paragraphBreak1.png")
-</div>
 <br/>
