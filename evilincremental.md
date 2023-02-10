@@ -26,5 +26,8 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 ![Machinations](/assets/img/FearDarknessLoop.PNG)
 
-<p style="text-align: center;"> <a href="https://thomasporta.itch.io/evil-incremental">Download Here</a> </p>
+<p style="text-align: center;"> 
+<a href="https://thomasporta.itch.io/evil-incremental">Download Here</a>
 Can be played in browser but android apk is the recommended version
+</p>
+
