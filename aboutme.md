@@ -5,7 +5,7 @@ subtitle: Programmer and Technical Artist
 ---
 
 I am Thomas Porta, a programmer and technical artist. I studied Game Development at the National Film and Television school.
-Previously I was a Machine Learning Scientist. I also have a MSc in Machine Learning from UCL, UK and a BSc in Physics from McGill University, Canada. It's fair to say I like Science and Engineering.
+Previously I was a Machine Learning Scientist. I also have a MSc in Machine Learning from UCL and a BSc in Physics from McGill University. It's fair to say I like Science and Engineering.
 
 ### Skills
 
