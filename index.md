@@ -30,7 +30,7 @@ I programmed and designed all core systems, as well as the dithered outline post
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
 
-<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/sirenum) </h3>
+<p style="text-align: center;"> [More Information](https://thomasporta.github.io/sirenum) </p>
 
 <img 
     style="display: block; 
@@ -64,7 +64,7 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
 
 
-<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/evilincremental) </h3>
+<p style="text-align: center;"> [More Information](https://thomasporta.github.io/evilincremental) </p>
 
 <img 
     style="display: block; 
@@ -96,7 +96,7 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
 Unity 3D, C#, Unity Audio
 
 
-<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/herdem) </h3>
+<p style="text-align: center;"> [More Information](https://thomasporta.github.io/herdem) </p>
 
 <img 
     style="display: block; 
@@ -129,7 +129,7 @@ My role involved programming core systems like train movement and dynamic events
 Unity 3D, C#, Unity Audio, Maya
 
 
-<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/shadowsofthem) </h3>
+<p style="text-align: center;"> [More Information](https://thomasporta.github.io/shadowsofthem) </p>
 
 <img 
     style="display: block; 
@@ -162,7 +162,7 @@ Project Train is a retro FPS where you control a death train. The train has four
 Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
 
-<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/projecttrain) </h3>
+<p style="text-align: center;"> [More Information](https://thomasporta.github.io/projecttrain) </p>
 
 <img 
     style="display: block; 
