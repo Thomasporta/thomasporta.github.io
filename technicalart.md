@@ -27,6 +27,8 @@ After playing Sable, I set out in making a Moebius inspired graphic novel post p
 
 I use a discontinuity based outline detection algorithm with three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects more presence.
 
+![Sable](/assets/img/Sable1.PNG)
+
 <img 
     style="display: block; 
            margin-left: auto;
@@ -36,8 +38,6 @@ I use a discontinuity based outline detection algorithm with three sources of di
     alt="break">
 
 <br/>
-
-![Sable](/assets/img/Sable1.PNG)
 
 <h2 style="text-align: center;">Project Train</h2>
 
@@ -45,25 +45,12 @@ Project Train required a retro look and I did so through a post processing shade
 
 The shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - 4 to be exact. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors, deeper blacks and better whites.) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 5%;"
-    src="/assets/img/paragraphBreak1.png" 
-    alt="break">
-
-<br/>
-
 ![ProjectTrain](/assets/img/PT1.png)
 
 <video width="100%" height="540" controls poster="/assets/img/PT2.png">
   <source src="/assets/img/AlienVFX_comp.mp4" type="video/mp4">
 </video>
 
-<h2 style="text-align: center;">Gaussian Outlines</h2>
-
-Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
 
 <img 
     style="display: block; 
@@ -75,7 +62,21 @@ Gaussian Outlines are useful if we want soft outlines. They are built using a ga
 
 <br/>
 
+<h2 style="text-align: center;">Gaussian Outlines</h2>
+
+Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
+
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 <h2 style="text-align: center;">Terrain Scanner</h2>
 
