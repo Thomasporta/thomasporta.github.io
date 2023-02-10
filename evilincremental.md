@@ -6,9 +6,6 @@ subtitle: Mobile (Android), Active Incremental Puzzler
 
 ![EI Banner](/assets/img/EIBanner.png)
 
-[Game Page](https://thomasporta.itch.io/evil-incremental) <br>
-Can be played in browser but android apk is the recommended version
-
 ### Summary
 Evil Incremental is an active incremental puzzler where you play as a recently reawakened evil god whose purpose is to destroy the world. 
 
@@ -28,3 +25,6 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 ### Machinations Diagram for first two resources
 
 ![Machinations](/assets/img/FearDarknessLoop.PNG)
+
+<p style="text-align: center;"> <a href="https://thomasporta.itch.io/evil-incremental">Download Here</a> </p>
+Can be played in browser but android apk is the recommended version
