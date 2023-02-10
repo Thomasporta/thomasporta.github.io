@@ -5,6 +5,9 @@ subtitle: Programming and Technical Art
 order: 1
 ---
 
+<p style="text-align: center;">I studied Game Design and Development at the National Film and Television School. I enjoy programming Systems, AI and general Gameplay, as seen in my projects like Evil Incremental, Herd'Em and Project Train. I equally enjoy making shaders, both image effect and object shaders.The results of my shaders can be seen in Sirenum (Image Effect) and Project Train (Image Effect and Objects) where I did some VFX work. I am proficient in several programming languages and am very comfortable with C# and HLSL.</p>
+
+
 <h1 style="text-align: center;">SIRENUM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
@@ -26,7 +29,8 @@ I programmed and designed all core systems, as well as the dithered outline post
 
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
-### [More Information](https://thomasporta.github.io/sirenum)
+
+<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/sirenum) </h3>
 
 <img 
     style="display: block; 
@@ -59,7 +63,8 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
 
-### [More Information](https://thomasporta.github.io/evilincremental)
+
+<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/evilincremental) </h3>
 
 <img 
     style="display: block; 
@@ -90,7 +95,8 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
 
 Unity 3D, C#, Unity Audio
 
-### [More Information](https://thomasporta.github.io/herdem)
+
+<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/herdem) </h3>
 
 <img 
     style="display: block; 
@@ -122,7 +128,8 @@ My role involved programming core systems like train movement and dynamic events
 
 Unity 3D, C#, Unity Audio, Maya
 
-### [More Information](https://thomasporta.github.io/shadowsofthem)
+
+<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/shadowsofthem) </h3>
 
 <img 
     style="display: block; 
@@ -154,7 +161,8 @@ Project Train is a retro FPS where you control a death train. The train has four
 
 Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
-### [More Information](https://thomasporta.github.io/projecttrain)
+
+<h3 style="text-align: center;"> [More Information](https://thomasporta.github.io/projecttrain) </h3>
 
 <img 
     style="display: block; 
