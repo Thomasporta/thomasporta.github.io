@@ -7,6 +7,8 @@ order: 1
 
 <p style="text-align: center;">I studied Game Design and Development at the National Film and Television School. I enjoy programming Systems, AI and general Gameplay, as seen in my projects like Evil Incremental, Herd'Em and Project Train. I equally enjoy making shaders, both image effect and object shaders. The results of my shaders can be seen in Sirenum (Image Effect) and Project Train (Image Effect and Objects) where I did some VFX work. </p> 
 <p style="text-align: center;"> I am proficient in several programming languages and am very comfortable with C#, Python and HLSL. In my own time I develop smaller games - I am currently continuing development of Evil Incremental for a full release while making a game for the Playdate.</p>
+<p style="text-align: center;"> Here are some of my projects. Each one was a pleasure to work on.</p>
+
 
 
 <h1 style="text-align: center;">SIRENUM (PC)</h1>
