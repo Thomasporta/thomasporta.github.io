@@ -11,12 +11,31 @@ In order to draw the outlines I used a common outlining technique which detects 
 
 ![Sirenum](/assets/img/Sirenum2.png)
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 <h2 style="text-align: center;">Moebius Image Effect</h2>
 
 After playing Sable, I set out in making a Moebius inspired graphic novel post processing shader. <br> 
 
 I use a discontinuity based outline detection algorithm with three sources of discontinuities. This is coupled with a simple binary lighting model. Either an object is lit with the color of the main light source or it is in shadows. I also allow objects to have an edge map texture for custom edges - this is done in another render pass. A bloom effect supplements all of the above to give objects more presence.
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 ![Sable](/assets/img/Sable1.PNG)
 
@@ -25,6 +44,16 @@ I use a discontinuity based outline detection algorithm with three sources of di
 Project Train required a retro look and I did so through a post processing shader. <br> 
 
 The shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - 4 to be exact. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors, deeper blacks and better whites.) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 ![ProjectTrain](/assets/img/PT1.png)
 
@@ -35,6 +64,16 @@ The shader controls the allowed range of colors. While we mostly use the R8G8B8A
 <h2 style="text-align: center;">Gaussian Outlines</h2>
 
 Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 ![GaussianOutlines](/assets/img/GaussianOutlines.PNG)
 
@@ -49,3 +88,13 @@ The scanner is a post processing effect and will work with any level geometry an
 </video>
 
 [Unity Asset Store Page](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description)
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
