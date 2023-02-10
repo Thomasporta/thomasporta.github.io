@@ -8,7 +8,15 @@ subtitle : PC, Psychological Horror
   <source src="/assets/img/ShadowsOfThemTrailer.mp4" type="video/mp4">
 </video>
 
-![Develop](/assets/img/DevelopIndieShowcase.png)
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="/assets/img/DevelopIndieShowcase.png" 
+    alt="break">
+
+<br/>
 
 [Game Page](https://national-film-tv-school.itch.io/shadows-of-them)
 
