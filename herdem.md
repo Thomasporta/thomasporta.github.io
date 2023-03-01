@@ -20,7 +20,7 @@ I programmed the herding behaviour using Boid algorithm with some modified compo
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webFullGameplay.png" 
+    src="/assets/img/youtubeLogo.png" 
     alt="Herd'Em Full Gameplay">
   </a>
   
@@ -30,7 +30,7 @@ I programmed the herding behaviour using Boid algorithm with some modified compo
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webDownloadHere.png" 
+    src="/assets/img/itchLogo.png" 
     alt="Herd'Em Download">
   </a>
 
