@@ -24,8 +24,6 @@ I programmed the herding behaviour using Boid algorithm with some modified compo
     alt="Herd'Em Full Gameplay">
   </a>
   
-<br>
-  
 <a href="https://thomasporta.itch.io/herdem">
 <img 
     style="display: block; 
