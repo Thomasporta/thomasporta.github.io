@@ -14,13 +14,27 @@ Herd'Em is a cozy puzzler where you control herding dogs. You are tasked with gu
 
 I programmed the herding behaviour using Boid algorithm with some modified components to account for fences and dogs. For performance reasons the sheep behaviour is executed at set intervals which can be modified according to needs. 
 
-<p style="text-align: center;"> 
-<a href="https://www.youtube.com/watch?v=Ktf3CG6VHQ8">Full Gameplay</a>
-</p>
-
-<p style="text-align: center;"> 
-<a href="https://thomasporta.itch.io/herdem">Download Here</a>
-</p>
+<a href="https://www.youtube.com/watch?v=Ktf3CG6VHQ8">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webFullGameplay.png" 
+    alt="Herd'Em Full Gameplay">
+  </a>
+  
+</br>
+  
+<a href="https://thomasporta.itch.io/herdem">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webDownloadHere.png" 
+    alt="Herd'Em Download">
+  </a>
 
 ### Additional Screenshot
 
