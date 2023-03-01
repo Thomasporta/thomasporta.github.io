@@ -26,26 +26,26 @@ The large amount of enemies and VFX required coding lookup tables which could ef
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webFullGameplay.png" 
     alt="Project Train Full Gameplay">
   </a>
   
-</br>
+<br>
   
 <a href="https://thomasporta.itch.io/project-train">
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webDownloadHere.png" 
     alt="Project Train Download">
   </a>
 
 ### Additional Screenshots
 
-![PT1](/assets/img/PT1.png) </br>
-![PT2](/assets/img/PT2.png) </br>
-![PT3](/assets/img/PT3.PNG) </br>
+![PT1](/assets/img/PT1.png) <br>
+![PT2](/assets/img/PT2.png) <br>
+![PT3](/assets/img/PT3.PNG) <br>
 
