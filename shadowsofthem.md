@@ -1,6 +1,6 @@
 ---
 layout : page
-title : SHADOWS OF THEM
+title : Shadows of Them
 subtitle : PC, Psychological Horror 
 ---
 
