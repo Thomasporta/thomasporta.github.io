@@ -88,7 +88,7 @@ The scanner is a post processing effect and will work with any level geometry an
   <source src="/assets/img/TSV2_FP.mp4" type="video/mp4">
 </video>
 
-<a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description">
+<a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456">
 <img 
     style="display: block; 
            margin-left: auto;
