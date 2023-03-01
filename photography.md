@@ -1,6 +1,6 @@
 ---
 layout : page
-title : PHOTOGRAPHY
+title : Photography
 subtitle : I like Concrete 
 ---
 
