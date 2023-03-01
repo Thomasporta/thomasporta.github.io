@@ -32,7 +32,7 @@ I programmed core systems like loop transitions and game logic. I was the lighti
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webFullGameplay.png" 
+    src="/assets/img/youtubeLogo.png" 
     alt="Shadows of Them Full Gameplay">
   </a>
 
@@ -42,7 +42,7 @@ I programmed core systems like loop transitions and game logic. I was the lighti
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webDownloadHere.png" 
+    src="/assets/img/itchLogo.png" 
     alt="Shadows of Them Download">
   </a>
 
