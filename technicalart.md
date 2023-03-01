@@ -3,7 +3,7 @@ layout: page
 title: TECHNICAL ART
 ---
 
-<h2 style="text-align: center;">Sirenum</h2>
+<h2 style="text-align: center;">SIRENUM</h2>
 
 Sirenum required a post processing effect to draw the outlines and apply a small amount of dithering. <br>
 
@@ -21,7 +21,7 @@ In order to draw the outlines I used a common outlining technique which detects 
 
 <br/>
 
-<h2 style="text-align: center;">Moebius Image Effect</h2>
+<h2 style="text-align: center;">MOEBIUS IMAGE EFFECT</h2>
 
 After playing Sable, I set out in making a Moebius inspired graphic novel post processing shader. <br> 
 
@@ -39,7 +39,7 @@ I use a discontinuity based outline detection algorithm with three sources of di
 
 <br/>
 
-<h2 style="text-align: center;">Project Train</h2>
+<h2 style="text-align: center;">PROJECT TRAIN</h2>
 
 Project Train required a retro look and I did so through a post processing shader. <br> 
 
@@ -62,7 +62,7 @@ The shader controls the allowed range of colors. While we mostly use the R8G8B8A
 
 <br/>
 
-<h2 style="text-align: center;">Gaussian Outlines</h2>
+<h2 style="text-align: center;">GAUSSIAN OUTLINES</h2>
 
 Gaussian Outlines are useful if we want soft outlines. They are built using a gaussian blur on select objects. Each object is rendered on a special render target and then blurred in two passes. One vertical and one horizontal pass. As such they can be expensive if used extensively. Despite this they are widespread. 
 
@@ -78,7 +78,7 @@ Gaussian Outlines are useful if we want soft outlines. They are built using a ga
 
 <br/>
 
-<h2 style="text-align: center;">Terrain Scanner</h2>
+<h2 style="text-align: center;">TERRAIN SCANNER</h2>
 
 I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. <br>
 
@@ -88,7 +88,15 @@ The scanner is a post processing effect and will work with any level geometry an
   <source src="/assets/img/TSV2_FP.mp4" type="video/mp4">
 </video>
 
-[Unity Asset Store Page](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description)
+<a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/terrain-scanner-vfx-238456#description">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 25%;"
+    src="/assets/img/webAssetStore.png" 
+    alt="Asset Store">
+  </a>
 
 <img 
     style="display: block; 
