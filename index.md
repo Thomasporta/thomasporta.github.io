@@ -37,12 +37,10 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 15%;"
+           width: 35%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
-    
-[![More Information](/assets/img/webMoreInfo.png "More Information")](https://thomasporta.github.io/sirenum)
 
 <img 
     style="display: block; 
@@ -75,8 +73,15 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinations](https://machinations.io)
 
-
-<p style="text-align: center;"> <a href="https://thomasporta.github.io/evilincremental">More Information</a> </p>
+<a href="https://thomasporta.github.io/evilincremental">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
 
 <img 
     style="display: block; 
@@ -107,8 +112,15 @@ Herd'Em is a Couch Co-op Herding game that is played by one or two players. The 
 
 Unity 3D, C#, Unity Audio
 
-
-<p style="text-align: center;"> <a href="https://thomasporta.github.io/herdem">More Information</a> </p>
+<a href="https://thomasporta.github.io/herdem">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
 
 <img 
     style="display: block; 
@@ -140,8 +152,15 @@ My role involved programming core systems like train movement and dynamic events
 
 Unity 3D, C#, Unity Audio, Maya
 
-
-<p style="text-align: center;"> <a href="https://thomasporta.github.io/shadowsofthem">More Information</a> </p>
+<a href="https://thomasporta.github.io/shadowsofthem">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
 
 <img 
     style="display: block; 
@@ -173,8 +192,15 @@ Project Train is a retro FPS where you control a death train. The train has four
 
 Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
-
-<p style="text-align: center;"> <a href="https://thomasporta.github.io/projecttrain">More Information</a> </p>
+<a href="https://thomasporta.github.io/projecttrain">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
 
 <img 
     style="display: block; 
