@@ -37,7 +37,7 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 10%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
