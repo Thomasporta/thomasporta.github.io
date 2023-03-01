@@ -1,6 +1,6 @@
 --- 
 layout : page
-title : PROJECT TRAIN
+title : Project Train
 subtitle : PC, Retro Shooter
 ---
 
