@@ -19,7 +19,7 @@ I programmed and designed all core systems, as well as the dithered outline post
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webFullGameplay.png" 
     alt="Sirenum Full Gameplay">
   </a>
@@ -31,7 +31,7 @@ I programmed and designed all core systems, as well as the dithered outline post
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webDownloadHere.png" 
     alt="Sirenum Download">
   </a>
