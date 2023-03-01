@@ -24,6 +24,8 @@ I programmed and designed all core systems, as well as the dithered outline post
     alt="Sirenum Full Gameplay">
   </a>
   
+</br>
+  
 <a href="https://thomasporta.itch.io/sirenum">
 <img 
     style="display: block; 
