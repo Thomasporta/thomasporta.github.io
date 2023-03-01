@@ -43,7 +43,9 @@ The large amount of enemies and VFX required coding lookup tables which could ef
 
 ### Additional Screenshots
 
-![PT1](/assets/img/PT1.png) <br>
-![PT2](/assets/img/PT2.png) <br>
-![PT3](/assets/img/PT3.PNG) <br>
+![PT1](/assets/img/PT1.png) <br/>
+
+![PT2](/assets/img/PT2.png) <br/>
+
+![PT3](/assets/img/PT3.PNG) <br/>
 
