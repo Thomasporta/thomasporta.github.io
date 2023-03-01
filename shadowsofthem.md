@@ -48,6 +48,8 @@ I programmed core systems like loop transitions and game logic. I was the lighti
 
 ### Additional Screenshots
 
-![SOT1](/assets/img/SOT1.png) <br>
-![SOT2](/assets/img/SOT2.png) <br>
-![SOT3](/assets/img/SOT3.png) <br>
+![SOT1](/assets/img/SOT1.png) <br/>
+
+![SOT2](/assets/img/SOT2.png) <br/>
+
+![SOT3](/assets/img/SOT3.png) <br/>
