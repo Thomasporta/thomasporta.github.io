@@ -94,7 +94,7 @@ The scanner is a post processing effect and will work with any level geometry an
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webAssetStore.png" 
+    src="/assets/img/unityLogo.png" 
     alt="Asset Store">
   </a>
 
