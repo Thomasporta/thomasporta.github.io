@@ -25,14 +25,14 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 ### Machinations Diagram for first two resources
 
 ![Machinations](/assets/img/FearDarknessLoop.PNG) 
-</br>
+<br>
   
 <a href="https://thomasporta.itch.io/evil-incremental">
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webDownloadHere.png" 
     alt="Evil Incremental Download">
   </a>
