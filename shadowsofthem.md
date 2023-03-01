@@ -35,9 +35,7 @@ I programmed core systems like loop transitions and game logic. I was the lighti
     src="/assets/img/webFullGameplay.png" 
     alt="Shadows of Them Full Gameplay">
   </a>
-  
-<br>
-  
+
 <a href="https://national-film-tv-school.itch.io/shadows-of-them">
 <img 
     style="display: block; 
