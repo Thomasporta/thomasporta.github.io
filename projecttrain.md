@@ -27,7 +27,7 @@ The large amount of enemies and VFX required coding lookup tables which could ef
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webFullGameplay.png" 
+    src="/assets/img/youtubeLogo.png" 
     alt="Project Train Full Gameplay">
   </a>
 
@@ -37,7 +37,7 @@ The large amount of enemies and VFX required coding lookup tables which could ef
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webDownloadHere.png" 
+    src="/assets/img/itchLogo.png" 
     alt="Project Train Download">
   </a>
 
