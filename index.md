@@ -37,7 +37,7 @@ Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shad
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
@@ -78,7 +78,7 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
@@ -117,7 +117,7 @@ Unity 3D, C#, Unity Audio
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
@@ -157,7 +157,7 @@ Unity 3D, C#, Unity Audio, Maya
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
@@ -197,7 +197,7 @@ Unity 3D, C#, WWise, Maya, Shuriken Particle System
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webMoreInfo.png" 
     alt="More Information">
   </a>
