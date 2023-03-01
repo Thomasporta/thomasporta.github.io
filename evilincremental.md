@@ -25,7 +25,6 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 ### Machinations Diagram for first two resources
 
 ![Machinations](/assets/img/FearDarknessLoop.PNG) 
-<br>
   
 <a href="https://thomasporta.itch.io/evil-incremental">
 <img 
