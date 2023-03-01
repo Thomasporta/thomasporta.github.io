@@ -30,9 +30,7 @@ The large amount of enemies and VFX required coding lookup tables which could ef
     src="/assets/img/webFullGameplay.png" 
     alt="Project Train Full Gameplay">
   </a>
-  
-<br>
-  
+
 <a href="https://thomasporta.itch.io/project-train">
 <img 
     style="display: block; 
