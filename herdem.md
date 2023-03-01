@@ -19,19 +19,19 @@ I programmed the herding behaviour using Boid algorithm with some modified compo
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webFullGameplay.png" 
     alt="Herd'Em Full Gameplay">
   </a>
   
-</br>
+<br>
   
 <a href="https://thomasporta.itch.io/herdem">
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 35%;"
+           width: 25%;"
     src="/assets/img/webDownloadHere.png" 
     alt="Herd'Em Download">
   </a>
