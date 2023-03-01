@@ -1,6 +1,6 @@
 ---
 layout: page
-title: THOMAS PORTA
+title: Thomas Porta
 subtitle: Programming and Technical Art
 order: 1
 ---
