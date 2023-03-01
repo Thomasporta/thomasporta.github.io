@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Art
+title: TECHNICAL ART
 ---
 
 <h2 style="text-align: center;">Sirenum</h2>
