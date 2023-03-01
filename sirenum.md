@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SIRENUM
+title: Sirenum
 subtitle : PC, First Person Narrative Game
 ---
 
