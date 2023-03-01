@@ -32,6 +32,6 @@ I programmed and designed the entire experience. Most of the UI is also made by 
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="/assets/img/webDownloadHere.png" 
+    src="/assets/img/itchLogo.png" 
     alt="Evil Incremental Download">
   </a>
