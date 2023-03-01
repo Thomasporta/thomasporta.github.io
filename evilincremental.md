@@ -24,10 +24,15 @@ I programmed and designed the entire experience. Most of the UI is also made by 
 
 ### Machinations Diagram for first two resources
 
-![Machinations](/assets/img/FearDarknessLoop.PNG)
-
-<p style="text-align: center;"> 
-<a href="https://thomasporta.itch.io/evil-incremental">Download Here</a>
-Can be played in browser but android apk is the recommended version
-</p>
-
+![Machinations](/assets/img/FearDarknessLoop.PNG) 
+</br>
+  
+<a href="https://thomasporta.itch.io/evil-incremental">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webDownloadHere.png" 
+    alt="Evil Incremental Download">
+  </a>
