@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evil Incremental
+title: EVIL INCREMENTAL
 subtitle: Mobile (Android), Active Incremental Puzzler
 ---
 
