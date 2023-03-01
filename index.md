@@ -32,9 +32,7 @@ I programmed and designed all core systems, as well as the dithered outline post
 
 Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
 
-<div style="text-align: center;">
 [![More Information](/assets/img/webMoreInfo.png "More Information")](https://thomasporta.github.io/sirenum)
-</div>
 
 <img 
     style="display: block; 
