@@ -1,6 +1,6 @@
 ---
 layout : page
-title : HERD'EM
+title : Herd'Em
 subtitle : PC, Cozy Couch Co-op Puzzler 
 ---
 
