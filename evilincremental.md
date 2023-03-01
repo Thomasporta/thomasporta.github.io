@@ -16,16 +16,6 @@ Will you annihilate the world?
 ### Role
 I programmed and designed the entire experience. Most of the UI is also made by me, except for the icons. I used [Machinations](https://machinations.io) and Excel to balance the numbers. I am still working on this game in my own time and aim to add more content, refine and create mechanics and add leaderboards to encourage speedrunning and replayability.
 
-### Comments from players on Itch.io
-
-*"This is one of the better incremental games I've played. Fun theme, upgrade decisions that matter, an end goal, and no rebirth mechanics to pad out the experience."* - Homicidal_Harry
-
-*"Really strong theme! The sound design is great with whistling wind and somber music, and the monster sounds you get with the chapter text is great."* - An Actual Typhon
-
-### Machinations Diagram for first two resources
-
-![Machinations](/assets/img/FearDarknessLoop.PNG) 
-  
 <a href="https://thomasporta.itch.io/evil-incremental">
 <img 
     style="display: block; 
@@ -35,3 +25,13 @@ I programmed and designed the entire experience. Most of the UI is also made by 
     src="/assets/img/itchLogo.png" 
     alt="Evil Incremental Download">
   </a>
+
+### Comments from players on Itch.io
+
+*"This is one of the better incremental games I've played. Fun theme, upgrade decisions that matter, an end goal, and no rebirth mechanics to pad out the experience."* - Homicidal_Harry
+
+*"Really strong theme! The sound design is great with whistling wind and somber music, and the monster sounds you get with the chapter text is great."* - An Actual Typhon
+
+### Machinations Diagram for first two resources
+
+![Machinations](/assets/img/FearDarknessLoop.PNG) 
