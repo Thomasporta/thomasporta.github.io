@@ -26,12 +26,30 @@ Shadows of them is a first-person psychological horror game where the player mus
 
 I programmed core systems like loop transitions and game logic. I was the lighting artist for the game as well as the level designer. You can download my level design drawings [here](/assets/img/LoopMapsCombined.pdf).
 
-<p style="text-align: center;"> <a href="https://national-film-tv-school.itch.io/shadows-of-them">Download Here</a> </p>
-
-<p style="text-align: center;"> <a href="https://www.youtube.com/watch?v=3B0dRZvO7ik">Full Gameplay</a> </p>
+<a href="https://www.youtube.com/watch?v=3B0dRZvO7ik">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webFullGameplay.png" 
+    alt="Shadows of Them Full Gameplay">
+  </a>
+  
+</br>
+  
+<a href="https://national-film-tv-school.itch.io/shadows-of-them">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 35%;"
+    src="/assets/img/webDownloadHere.png" 
+    alt="Shadows of Them Download">
+  </a>
 
 ### Additional Screenshots
 
-![SOT1](/assets/img/SOT1.png) <br>
-![SOT2](/assets/img/SOT2.png) <br>
-![SOT3](/assets/img/SOT3.png) <br>
+![SOT1](/assets/img/SOT1.png) </br>
+![SOT2](/assets/img/SOT2.png) </br>
+![SOT3](/assets/img/SOT3.png) </br>
