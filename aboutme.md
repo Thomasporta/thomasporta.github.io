@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: ABOUT ME
 subtitle: Programmer and Technical Artist
 ---
 
