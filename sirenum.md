@@ -18,6 +18,7 @@ I programmed and designed all core systems, as well as the dithered outline post
  <a href="https://thomasporta.itch.io/sirenum">Sirenum by Thomas Porta</a></iframe></p>
  
 <iframe
+    frameborder="0"
     width="70%"
     height="270"
     src="https://www.youtube.com/embed/bf6qj9Jp7N4?mute=1"
