@@ -16,15 +16,8 @@ Will you annihilate the world?
 ### Role
 I programmed and designed the entire experience. Most of the UI is also made by me, except for the icons. I used [Machinations](https://machinations.io) and Excel to balance the numbers. I am still working on this game in my own time and aim to add more content, refine and create mechanics and add leaderboards to encourage speedrunning and replayability.
 
-<a href="https://thomasporta.itch.io/evil-incremental">
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 25%;"
-    src="/assets/img/itchLogo.png" 
-    alt="Evil Incremental Download">
-  </a>
+<p align="center"><iframe frameborder="0" src="https://itch.io/embed/1632565?dark=true" width="80%" height="167">
+<a href="https://thomasporta.itch.io/evil-incremental">Evil Incremental by Thomas Porta</a></iframe></p>
 
 ### Comments from players on Itch.io
 
