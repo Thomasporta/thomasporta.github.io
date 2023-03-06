@@ -21,25 +21,18 @@ I also was in charge of creating the retro look -a post processing effect and an
 
 The large amount of enemies and VFX required coding lookup tables which could efficiently reuse objects - enemies and VFX instances. This optimized garbage collection and memory allocation - everything was done upon level loading. 
 
-<a href="https://youtu.be/kQ6OapEtbas">
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 25%;"
-    src="/assets/img/youtubeLogo.png" 
-    alt="Project Train Full Gameplay">
-  </a>
 
-<a href="https://thomasporta.itch.io/project-train">
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 25%;"
-    src="/assets/img/itchLogo.png" 
-    alt="Project Train Download">
-  </a>
+<p align="center"><iframe frameborder="0" src="https://itch.io/embed/1827033?dark=true" width="80%" height="167">
+<a href="https://thomasporta.itch.io/project-train">Project Train by Thomas Porta & Nick McKenzie</a></iframe></p>
+ 
+<p align="center">
+<iframe
+    frameborder="0"
+    width="80%"
+    height="270"
+    src="https://www.youtube.com/embed/kQ6OapEtbas?mute=1"
+    allowfullscreen
+> </iframe></p>
 
 ### Additional Screenshots
 
