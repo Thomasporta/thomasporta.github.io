@@ -14,8 +14,8 @@ Sirenum is a monochromatic game taking place on the Pope, a ship that has been l
 ### Role
 I programmed and designed all core systems, as well as the dithered outline post processing shader. The outline effect uses Discontinuity based methods for outlining. In this instance only the color discontinuity is used since I hand color faces of objects using vertex colors. All objects in the game are modelled by me.
 
- <p align="center"><iframe frameborder="0" src="https://itch.io/embed/1746289?dark=true" width="80%" height="167">
- <a href="https://thomasporta.itch.io/sirenum">Sirenum by Thomas Porta</a></iframe></p>
+<p align="center"><iframe frameborder="0" src="https://itch.io/embed/1746289?dark=true" width="80%" height="167">
+<a href="https://thomasporta.itch.io/sirenum">Sirenum by Thomas Porta</a></iframe></p>
  
 <p align="center">
 <iframe
