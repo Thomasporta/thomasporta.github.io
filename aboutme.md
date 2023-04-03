@@ -34,7 +34,7 @@ I can do both post processing and standard per-object shaders.
 
 ### Software 
 
-Unity, Unreal, Maya, Photoshop
+Unity, Unreal, Maya, Blender, Photoshop
 
 ### Favourite Games
 
