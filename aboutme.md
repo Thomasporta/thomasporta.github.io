@@ -23,6 +23,7 @@ I am proficient in these coding languages,
 
 <ul>
   <li>C#</li>
+  <li>C++</li>
   <li>HLSL and CG (for shaders in Unity)</li>
   <li>Lua</li>
   <li>Python</li>
