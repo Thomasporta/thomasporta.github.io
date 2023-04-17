@@ -34,6 +34,7 @@ I programmed and designed the entire experience. Most of the UI is also made by 
   <li>Proficiency in various Unity UI systems that enable scaling across target devices.</li>
   <li>Understanding of WebGL pipeline for games built on Unity</li>
   <li>Making strong mechanics that are easily maintainable and can accomodate future updates without making past save files outdated. I had to update the game post launch several times.</li>
+  <li>Understanding of Binary Serialization and reading/writing binary for saving games.</li>
 </ul>
 
 ### Tools and Software
