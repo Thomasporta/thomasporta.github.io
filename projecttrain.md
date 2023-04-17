@@ -21,6 +21,24 @@ I also was in charge of creating the retro look -a post processing effect and an
 
 The large amount of enemies and VFX required coding lookup tables which could efficiently reuse objects - enemies and VFX instances. This optimized garbage collection and memory allocation - everything was done upon level loading. 
 
+### Challenges
+
+<ul>
+  <li>Large amount of enemies existing simultaneously and extensive use of VFX (blood and attacks).</li> 
+  <li>Train Physics.</li>
+  <li>Enemy AI and sensory control.</li>
+</ul>
+
+### Learning Outcomes
+
+<ul>
+  <li>Experience in creating efficient Lookup Tables that strike a good compromise between performance and memory requirements.</li> 
+  <li>Finite State Machines Decision Making for Enemies using signals from a sensory control module.</li>
+</ul>
+
+### Tools
+
+Unity 3D, C#, WWise, Maya, Shuriken Particle System
 
 <p align="center"><iframe frameborder="0" src="https://itch.io/embed/1827033?dark=true" width="80%" height="167">
 <a href="https://thomasporta.itch.io/project-train">Project Train by Thomas Porta & Nick McKenzie</a></iframe></p>
