@@ -26,6 +26,17 @@ Shadows of them is a first-person psychological horror game where the player mus
 
 I programmed core systems like loop transitions and game logic. I was the lighting artist for the game as well as the level designer. You can download my level design drawings [here](/assets/img/LoopMapsCombined.pdf).
 
+### Challenges
+
+<ul>
+  <li>Real time transition of train between station loops.</li>
+  <li>Player movement on dynamic objects.</li>
+</ul>
+
+### Tools
+
+Unity 3D, C#, Unity Audio, Maya
+
 <p align="center"><iframe frameborder="0" src="https://itch.io/embed/1477914?dark=true" width="80%" height="167">
 <a href="https://national-film-tv-school.itch.io/shadows-of-them">Shadows Of Them by National Film & Television School</a></iframe></p>
  
