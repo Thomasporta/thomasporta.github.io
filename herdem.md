@@ -14,6 +14,24 @@ Herd'Em is a cozy puzzler where you control herding dogs. You are tasked with gu
 
 I programmed the herding behaviour using Boid algorithm with some modified components to account for fences and dogs. For performance reasons the sheep behaviour is executed at set intervals which can be modified according to needs. 
 
+### Challenges
+
+<ul>
+  <li> Coding a modified Boid Herding algorithm.</li>
+  <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
+</ul>
+
+### Learning Outcomes
+
+<ul>
+  <li> Systems that distribute work across several frames.</li>
+  <li> Fully remappable user input since the game is played by two players on one keyboard. Use of the Command Pattern to do user remapping.</li>
+</ul>
+
+### Tools
+
+Unity 3D, C#, Unity Audio
+
 <p align="center"><iframe frameborder="0" src="https://itch.io/embed/1540043?dark=true" width="80%" height="167">
 <a href="https://thomasporta.itch.io/herdem">Herd'Em by Thomas Porta</a></iframe></p>
  
