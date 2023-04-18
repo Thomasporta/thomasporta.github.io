@@ -14,7 +14,7 @@ order: 1
 <h1 style="text-align: center;">SIRENUM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/Sirenum4.png">
-  <source src="/assets/img/Sirenum.mp4" type="video/mp4">
+  <source src="/assets/img/SirenumTrailer.mp4" type="video/mp4">
 </video>
 
 Sirenum is a first person narrative game created in 1 month. It is made in Unity. 
