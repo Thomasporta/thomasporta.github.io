@@ -22,7 +22,7 @@ author: Thomas Porta
 navbar-links:
   Home : "https://thomasporta.github.io"
   About Me: "aboutme"
-  CV: "https://thomasporta.github.io/assets/img/CVTPNEW.pdf"
+  CV: "https://thomasporta.github.io/assets/img/CVTP.pdf"
   # Programming : "programming"
   Games:
     - Sirenum: "https://thomasporta.github.io/sirenum"
@@ -60,7 +60,6 @@ title-img: "/assets/img/Space.png"
 social-network-links:
   email: "thomasp2049@protonmail.com"
   twitter: TPTP_dev
-  cv: "https://thomasporta.github.io/assets/img/CVTPNEW.pdf"
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
