@@ -43,7 +43,7 @@ I use a discontinuity based outline detection algorithm with three sources of di
 
 Project Train required a retro look and I did so through a post processing shader. <br> 
 
-The shader controls the allowed range of colors. While we mostly use the R8G8B8A8 format in modern engines, older engines had fewer bits per channel - it was often R5G6B6 but changed depending on desired color expression. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
+The shader controls the allowed range of colors. While we mostly use the R8G8B8A8 (32-Bit) format in modern engines, older engines had fewer bits per channel - it was often R5G6B5 (16-Bit) but changed depending on desired color expression. This dramatically reduces the amount of colors you can create. (HDR uses more bits per channel, hence why HDR represents more colors) The shader controls how many bits are allowed for each channel, creating this old school feeling. We also control the rendering resolution to add pixelation. My work includes VFX for the game, one instance of which you can see below.
 
 ![ProjectTrain](/assets/img/PT1.png)
 
