@@ -45,9 +45,7 @@ I play a wide variety of games. I enjoy both competitive and non competitive gam
   <li> <strong>Alien Isolation</strong> because of its fun AI and its incredible atmosphere.</li>
   <li> <strong>Bloodborne</strong> for its perfect systems.</li>
   <li> <strong>Skyrim</strong> for its cozy atmosphere. And a special thanks to all the modders who passionately support it expecting no monetary reward.</li>
-  <li> <strong>Monument Valley</strong> for the snippets of peace each level has given me.</li>
   <li> <strong>Control</strong> for its faithfulness to Brutalist architecture and attention to technical details.</li>
-  <li> <strong>Sable</strong>, a cozy world where you can take your time.</li>
 </ul>
 
 ### Hobbies
