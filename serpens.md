@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Serpens- Eternal Thievery
+title: Serpens Eternal Thievery
 subtitle : PC, Immersive First Person Stealth Game
 ---
 
