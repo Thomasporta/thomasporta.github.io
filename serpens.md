@@ -42,7 +42,7 @@ Unity 3D, C#, Maya, Blender, Wwise, HLSL
 
 ### Additional Screenshots
 
-![Serpens1](/assets/img/gameEnv1.png) <br/>
+![Serpens1](/assets/img/gamEnv1.png) <br/>
 
 ![Serpens2](/assets/img/gameSneak2.png) <br/>
 
