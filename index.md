@@ -131,45 +131,6 @@ Unity 2D for Mobile, C#, Unity Audio, Mechanics Design and Balancing, [Machinati
     
 <br/>
 
-<h1 style="text-align: center;">HERD'EM (PC)</h1>
-
-<video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
-  <source src="/assets/img/HEHerding.mp4" type="video/mp4">
-</video>
-
-Herd'Em is a Couch Co-op Herding game that is played by one or two players. The players each control one dog or one player controls both. They must herd the sheep into the neighbouring enclosure. Made in Unity. 
-
-### Challenges
-
-<ul>
-  <li>Coding a solid Herding algorithm with low performance cost amortized across frames. Each sheep's movement is updated each tick, which can be tweaked according to performance needs.</li>
-  <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
-</ul>
-
-### Tools
-
-Unity 3D, C#, Unity Audio
-
-<a href="https://thomasporta.github.io/herdem">
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 25%;"
-    src="/assets/img/webMoreInfo.png" 
-    alt="More Information">
-  </a>
-
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 5%;"
-    src="/assets/img/paragraphBreak1.png" 
-    alt="break">
-    
-<br/>
-
 <h1 style="text-align: center;">SHADOWS OF THEM (PC)</h1>
 
 <video width="100%" height="540" controls poster="/assets/img/SOT1.png">
@@ -249,3 +210,43 @@ Unity 3D, C#, WWise, Maya, Shuriken Particle System
     alt="break">
     
 <br/>
+
+<h1 style="text-align: center;">HERD'EM (PC)</h1>
+
+<video width="100%" height="540" controls poster="/assets/img/Rainy.JPG">
+  <source src="/assets/img/HEHerding.mp4" type="video/mp4">
+</video>
+
+Herd'Em is a Couch Co-op Herding game that is played by one or two players. The players each control one dog or one player controls both. They must herd the sheep into the neighbouring enclosure. Made in Unity. 
+
+### Challenges
+
+<ul>
+  <li>Coding a solid Herding algorithm with low performance cost amortized across frames. Each sheep's movement is updated each tick, which can be tweaked according to performance needs.</li>
+  <li> Fully remappable user input since the game is played by two players on one keyboard.</li>
+</ul>
+
+### Tools
+
+Unity 3D, C#, Unity Audio
+
+<a href="https://thomasporta.github.io/herdem">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 25%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+    
+<br/>
+
