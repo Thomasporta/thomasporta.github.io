@@ -23,11 +23,13 @@ I needed to construct a solid and modular sensory system for NPCs in the game fo
 
 #### Art
 
-Serpens: Eternal Thievery is a retro game visually inspired by the late 1990s and early 2000s games. That is it has reduced color depth and lower resolution. I wanted to keep those constraints but use dynamic lighting and shadows to increase dynamism of stealth encounters. I had to modify the built-in shaders of Unity to tweak the lighting and its attenuation.
+Serpens: Eternal Thievery is a retro game visually inspired by the late 1990s and early 2000s games. Games of that era had reduced color depth and lower resolution. I wanted to keep those constraints but use some modern features like dynamic lighting and shadows to increase dynamism of stealth encounters. I had to modify the built-in shaders of Unity to tweak the lighting and its attenuation.
 
 #### Design 
 
-Serpens: Eternal Thievery is a mix between Thief and Outer Wilds. Reconciling a stealth game with a time loop mechanic is no easy feet. In such a game, infiltration needs to be much quicker than traditional stealth games because players will repeat the infiltration over and over again. Instead we want to make infiltration easier and instead add many ways of infiltrating so that each loop stays fresh. Another challenge is to keep players engaged and with some intentionality at the start of each loop. Each part of the map needs to be populated with interesting things that redirect players towards the interesting areas.
+Serpens: Eternal Thievery is a mix between Thief and Outer Wilds. Reconciling a stealth game with a time loop mechanic is no easy feet. In such a game, infiltration needs to be much quicker than traditional stealth games because players will repeat the infiltration over and over again. Instead we want to make infiltration easier and instead add many ways of infiltrating so that each loop stays fresh. 
+
+Another challenge is to keep players engaged and retain some intentionality at the start of each loop. Each part of the map needs to be populated with interesting encounters that redirect players towards the desired areas of interest.
 
 ### Learning Outcomes
 
