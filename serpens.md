@@ -12,16 +12,30 @@ subtitle : PC, Immersive First Person Stealth Game
 Serpens: Eternal Thievery is an immersive first-person stealth game where you embody Anika, a thief gifted with the power to loop back in time. With this unique ability and your arsenal of weapons, you must explore treacherous places, fight challenging enemies, and keep to the shadows.
 
 ### Role
-
-In construction.
+I was lead programmer, artist and designer on Serpens: Eternal Thievery. I juggled all duties throughout a development time (for the Scree Abbey level) of about 8 months.
 
 ### Challenges
+Development for Serpens: Eternal Thievery presented several challenges in all disciplines.
 
-In construction.
+#### Programming
+
+I needed to construct a solid and modular sensory system for NPCs in the game for sight, hearing, touch, and smell. This sensory system needed to feed into a many-behavioured AI decision maker (a hierarchical finite state machine). 
+
+#### Art
+
+Serpens: Eternal Thievery is a retro game visually inspired by the late 1990s and early 2000s games. That is it has reduced color depth and lower resolution. I wanted to keep those constraints but use dynamic lighting and shadows to increase dynamism of stealth encounters. I had to modify the built-in shaders of Unity to tweak the lighting and its attenuation.
+
+#### Design 
+
+Serpens: Eternal Thievery is a mix between Thief and Outer Wilds. Reconciling a stealth game with a time loop mechanic is no easy feet. In such a game, infiltration needs to be much quicker than traditional stealth games because players will repeat the infiltration over and over again. Instead we want to make infiltration easier and instead add many ways of infiltrating so that each loop stays fresh. Another challenge is to keep players engaged and with some intentionality at the start of each loop. Each part of the map needs to be populated with interesting things that redirect players towards the interesting areas.
 
 ### Learning Outcomes
 
-In construction.
+<ul>
+  <li>Understanding of HFSMs and crafting complex sensory systems that ramp up progressively.</li>
+  <li>Better understanding of crafting game mechanics that feel good.</li>
+  <li>Knowledge of designing stealth games and engaging levels.</li>
+</ul>
 
 ### Tools
 
