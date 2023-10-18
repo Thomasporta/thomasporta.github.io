@@ -5,11 +5,49 @@ subtitle: Programming and Technical Art
 order: 1
 ---
 
-<p style="text-align: center;">I studied Game Design and Development at the National Film and Television School. I enjoy programming Systems, AI and general Gameplay, as seen in my projects like Evil Incremental, Herd'Em and Project Train. I equally enjoy making shaders, both image effect and object shaders. The results of my shaders can be seen in Sirenum (Image Effect) and Project Train (Image Effect and Objects) where I did some VFX work. </p> 
-<p style="text-align: center;"> I am proficient in several programming languages and am very comfortable with C#, Python and HLSL. In my own time I develop smaller games - I am currently continuing development of Evil Incremental for a full release while making a game for the Playdate.</p>
+<p style="text-align: center;">I studied Game Design and Development at the National Film and Television School. I enjoy programming Systems, AI and general Gameplay, as seen in my projects like Serpens: Eternal Thievery, Evil Incremental and Project Train. I equally enjoy making shaders, both image effect and object shaders. The results of my shaders can be seen in Serpens, Sirenum and Project Train where I did some VFX work. </p> 
+<p style="text-align: center;"> I am proficient in several programming languages and am very comfortable with C++, C#, Python and HLSL. In my own time I develop smaller games - I am currently continuing development of Serpens:Eternal Thievery and Evil Incremental.</p>
 <p style="text-align: center;"> Here are some of my projects. Each one was a pleasure to work on.</p>
 
+<h1 style="text-align: center;">SERPENS: ETERNAL THIEVERY (PC)</h1>
 
+<video width="100%" height="540" controls poster="/assets/img/Steam_MainCapsuleV3.png">
+  <source src="assets/img/Serpens_PortfolioTrailer.mp4" type="video/mp4">
+</video>
+
+Serpens: Eternal Thievery is an immersive first-person stealth game where you embody Anika, a thief gifted with the power to loop back in time. With this unique ability and your arsenal of weapons, you must explore treacherous places, fight challenging enemies, and keep to the shadows. Available on Steam.
+
+### Challenges
+
+<ul>
+  <li>Complex Light and Sound Systems.</li>
+  <li>Flexible AI and plenty of different Behaviours.</li>
+  <li>Old School VFX. Revamped lighting in Unity.</li>
+</ul>
+
+### Tools
+
+Unity 3D, C#, Maya, WWise, HLSL
+
+<a href="https://thomasporta.github.io/serpens">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 25%;"
+    src="/assets/img/webMoreInfo.png" 
+    alt="More Information">
+  </a>
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
 
 <h1 style="text-align: center;">SIRENUM (PC)</h1>
 
@@ -30,7 +68,7 @@ I programmed and designed all core systems, as well as the dithered outline post
 
 ### Tools
 
-Unity 3D, C#, Unity Audio, CG language for Unity post processing and object shaders
+Unity 3D, C#, HLSL
 
 <a href="https://thomasporta.github.io/sirenum">
 <img 
@@ -150,7 +188,7 @@ My role involved programming core systems like train movement and dynamic events
 
 ### Tools
 
-Unity 3D, C#, Unity Audio, Maya
+Unity 3D, C#, Maya
 
 <a href="https://thomasporta.github.io/shadowsofthem">
 <img 
