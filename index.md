@@ -15,7 +15,7 @@ order: 1
   <source src="assets/img/Serpens_PortfolioTrailer.mp4" type="video/mp4">
 </video>
 
-Serpens: Eternal Thievery is an immersive first-person stealth game where you embody Anika, a thief gifted with the power to loop back in time. With this unique ability and your arsenal of weapons, you must explore treacherous places, fight challenging enemies, and keep to the shadows. Available to wishlist on Steam. Already 1000+ wishlists.
+Serpens: Eternal Thievery is an immersive first-person stealth game where you embody Anika, a thief gifted with the power to loop back in time. With this unique ability and your arsenal of weapons, you must explore treacherous places, fight challenging enemies, and keep to the shadows. Available to wishlist on Steam. Already 1000+ wishlists as of 20/10/2023
 
 ### Challenges
 
