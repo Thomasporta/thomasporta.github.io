@@ -45,7 +45,7 @@ Unity 3D, C#, Maya, Blender, Wwise, HLSL
 
 ### As Seen On
 
-<p align="center"><iframe src="https://store.steampowered.com/widget/2642850/" frameborder="0" width="646" height="190"></iframe></p>
+<p align="center"><iframe src="https://store.steampowered.com/widget/2642850/" frameborder="0" width="80%" height="190"></iframe></p>
 
 <p align="center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">A small gameplay trailer for Serpens&#39;s Steam page <a href="https://t.co/2PWAM08Pgo">pic.twitter.com/2PWAM08Pgo</a></p>&mdash; Thomas Porta (@TPTP_dev) <a href="https://twitter.com/TPTP_dev/status/1714698313788707026?ref_src=twsrc%5Etfw">October 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
