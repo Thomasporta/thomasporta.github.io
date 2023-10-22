@@ -24,7 +24,7 @@ I am proficient in these coding languages,
 <ul>
   <li>C#</li>
   <li>C++</li>
-  <li>HLSL and CG (for shaders in Unity)</li>
+  <li>HLSL</li>
   <li>Lua</li>
   <li>Python</li>
 </ul>
@@ -34,7 +34,7 @@ I can do both post processing and standard per-object shaders.
 
 ### Software 
 
-Unity, Unreal, Maya, Blender, Photoshop
+Unity, Unreal, Maya, Blender, Photoshop, Substance Painter and Designer
 
 ### Favourite Games
 
