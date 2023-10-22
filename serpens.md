@@ -27,9 +27,11 @@ Serpens: Eternal Thievery is a retro game visually inspired by the late 1990s an
 
 #### Design 
 
-Serpens: Eternal Thievery is a mix between Thief and Outer Wilds. Reconciling a stealth game with a time loop mechanic is no easy feet. In such a game, infiltration needs to be much quicker than traditional stealth games because players will repeat the infiltration over and over again. Instead we want to make infiltration easier and instead add many ways of infiltrating so that each loop stays fresh. 
+Reconciling a stealth game with a time loop mechanic is no easy feet. In such a game, infiltration needs to be much quicker than traditional stealth games because players will repeat the infiltration over and over again. Instead we want to make infiltration easier and instead add many ways of infiltrating so that each loop stays fresh. 
 
 Another challenge is to keep players engaged and retain some intentionality at the start of each loop. Each part of the map needs to be populated with interesting encounters that redirect players towards the desired areas of interest.
+
+A lot of work must also be done to make the dynamic nature of time interesting and understandable. In Serpens, time moves forward during the loop and NPCs change their behaviour as the loop progresses. This creates many issues as to guiding players towards AOI (areas of interest) because they might go somewhere at a certain time, see nothing, and assume this is the case for the entirety of the loop. We must thus leave crumbs for the players to find in areas where nothing currently happens, but something does. The entire level is an interconnected ecosystem. Characters travel in many areas around them, and killing some characters will have ripple effects on other occurences in the loop.  
 
 ### Learning Outcomes
 
