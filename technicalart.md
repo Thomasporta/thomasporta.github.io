@@ -80,7 +80,7 @@ Gaussian Outlines are useful if we want soft outlines. They are built using a ga
 
 <h2 style="text-align: center;">TERRAIN SCANNER</h2>
 
-I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. It has been downloaded several hundred times as of now. Good for prototyping and production. <br>
+I created this terrain scanner to upload it for free on the Unity Asset store. There were not many alternatives and I thought it could be helpful to others. **It has 1500 unique downloads**. Good for prototyping and production. <br>
 
 The scanner is a post processing effect and will work with any level geometry and materials, except transparent materials that do not write to the depth pass. The depth is used to reconstruct the world position of each pixel so that we can determine whether that pixel is within the range of the terrain scanner and whether it should be modified.  
 
