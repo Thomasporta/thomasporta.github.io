@@ -107,3 +107,25 @@ The scanner is a post processing effect and will work with any level geometry an
     alt="break">
 
 <br/>
+
+<h2 style="text-align: center;">OBJECT PLACEMENT EFFECT</h2>
+
+I created this object placement to be distributed for free on the Unity Asset Store. The pack contains three different effects each with their own quirks. For one of the placement effects I also created a texture using substance designer, both the texture and graph are seen below. 
+
+<video width="100%" height="540" controls poster="/assets/img/Card.png">
+  <source src="/assets/img/PlacementEffect.mp4" type="video/mp4">
+</video>
+
+![Lines](/assets/img/linesTex2.png)
+
+![SubGraph](/assets/img/LinesTexGraph.png)
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="/assets/img/paragraphBreak1.png" 
+    alt="break">
+
+<br/>
