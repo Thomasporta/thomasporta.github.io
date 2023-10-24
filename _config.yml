@@ -23,7 +23,10 @@ navbar-links:
   Home : "https://thomasporta.github.io"
   About Me: "aboutme"
   CV: "https://thomasporta.github.io/assets/img/CVTP.pdf"
-  # Programming : "programming"
+  Technical Art : "technicalart"
+  Artstation : "https://www.artstation.com/thomasporta"
+  Unity Assets : "https://assetstore.unity.com/publishers/76606"
+  Itch : "https://thomasporta.itch.io/"
   Games:
     - Serpens Eternal Thievery: "https://thomasporta.github.io/serpens"
     - Sirenum: "https://thomasporta.github.io/sirenum"
@@ -31,9 +34,6 @@ navbar-links:
     - Herd'Em: "https://thomasporta.github.io/herdem"
     - Shadows Of Them: "https://thomasporta.github.io/shadowsofthem"
     - Project Train: "https://thomasporta.github.io/projecttrain"
-  Technical Art : "technicalart"
-  Itch : "https://thomasporta.itch.io/"
-  Unity Assets : "https://assetstore.unity.com/publishers/76606"
   
 
 ################
