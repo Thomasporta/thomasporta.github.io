@@ -118,7 +118,7 @@ I created this object placement to be distributed for free on the Unity Asset St
 
 ![Lines](/assets/img/linesTex2.png)
 
-![SubGraph](/assets/img/LinesTexGraph.png)
+![SubGraph](/assets/img/LinesTexGraph.PNG)
 
 <img 
     style="display: block; 
