@@ -5,8 +5,8 @@ subtitle: Programming and Technical Art
 order: 1
 ---
 
-<p style="text-align: center;">I studied Game Design and Development at the National Film and Television School. I enjoy programming systems, AI and  gameplay mechanics, as seen in my projects like Serpens: Eternal Thievery, Evil Incremental and Project Train. I equally enjoy making shaders in both HLSL and shader graphs. The results of my shaders and VFX can be seen in Serpens: Eternal Thievery, Sirenum and Project Train. </p> 
-<p style="text-align: center;"> I am proficient in several programming languages and am very comfortable with C++, C#, Python and HLSL. In my own time I develop smaller games - I am currently continuing development of Serpens: Eternal Thievery and Evil Incremental for release on PC and Android respectively.</p>
+<p style="text-align: center;">I am a game programmer and technical artist working on Gloomwood (2022, New Blood Interactive). I enjoy programming systems, AI and  gameplay mechanics, as seen in my projects like Serpens: Eternal Thievery, Evil Incremental and Project Train. I equally enjoy making shaders in both HLSL and shader graphs. The results of my shaders and VFX can be seen in Serpens: Eternal Thievery, Sirenum and Project Train. </p> 
+<p style="text-align: center;"> I am proficient in several programming languages and am very comfortable with C++, C#, Python and HLSL.</p>
 <p style="text-align: center;"> Here are some of my projects.</p>
 
 <h1 style="text-align: center;">SERPENS: ETERNAL THIEVERY (PC)</h1>
